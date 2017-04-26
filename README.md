@@ -184,11 +184,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=sICXOwOwS4E) - A nice animation video about the Quantum States
                  
-<a name="quantumcomputing-states"></a>
+<a name="quantumcomputing-superposition"></a>
 #### SuperPosition
                  
 ##### two line : During the spin of the electron the point may be in the middle of upper and lower position, So an effective decision needs to take on the point location either 0 or 1 . Better option to analyse it along with other electrons using probability and is called superposition
 
 [![SuperPosition](http://www.users.csbsju.edu/~frioux/superposition.GIF)](https://en.wikipedia.org/wiki/Quantum_superposition)
                  
-* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition 
+* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition
