@@ -29,6 +29,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Registery QRAM](#quantumcomputing-qram) 
     - [Quantum Entanglement](#quantumcomputing-entanglement)
 - [QUANTUM COMPUTING MACHINE LEARNING BRIDGE](#qcmlbridge)
+    - [Complex Numbers](#qcmlbridge-complexNumbers)
     - [Tensors](#qcmlbridge-tensors)
     - [Tensors Network](#qcmlbridge-tensors-network)             
     - [Oracle](#qcmlbridge-oracle)
@@ -190,4 +191,4 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![SuperPosition](http://www.users.csbsju.edu/~frioux/superposition.GIF)](https://en.wikipedia.org/wiki/Quantum_superposition)
                  
-* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition                    
+* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition 
