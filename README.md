@@ -198,6 +198,6 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### one line : As due to computational complexity ,quantum computing only consider superposition between limited electrons ,In case to merge more than one set quantum walk be the idea
 
-[![SuperPosition specific for machine learning](https://physik.uni-paderborn.de/fileadmin/physik/Arbeitsgruppen/AG_Silberhorn/img/Galtonboard4.theora.gif)](https://en.wikipedia.org/wiki/Quantum_walk)
+[![SuperPosition specific for machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Galtonboard4.theora.gif)](https://en.wikipedia.org/wiki/Quantum_walk)
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=86QsYPxoBow) - A nice video about the Quantum Walks
