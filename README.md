@@ -201,3 +201,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![SuperPosition specific for machine learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Galtonboard4.theora.gif)](https://en.wikipedia.org/wiki/Quantum_walk)
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=86QsYPxoBow) - A nice video about the Quantum Walks
+                                                                   
+<a name="quantumcomputing-classicalbit"></a>
+#### Classical Bits
+                 
+##### one line : If electron moved from one one atom to other ,from ground state to excited state a bit value 1 is used else bit value 0 used
+
+[![Classical Bits](https://staff.aist.go.jp/v.zayets/SpinTransport/50/InverseSpinHall.gif)](https://en.wikipedia.org/wiki/Bit)
