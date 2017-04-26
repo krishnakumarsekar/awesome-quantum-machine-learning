@@ -207,4 +207,15 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### one line : If electron moved from one one atom to other ,from ground state to excited state a bit value 1 is used else bit value 0 used
 
-[![Classical Bits](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/InverseSpinHall.gif)](https://en.wikipedia.org/wiki/Bit)                 
+[![Classical Bits](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/InverseSpinHall.gif)](https://en.wikipedia.org/wiki/Bit)
+                                                                   
+<a name="quantumcomputing-qubit"></a>
+#### Qubit
+                 
+##### one line : The superposition value of states of a set of electrons is Qubit 
+
+[![Qubit](http://qoqms.phys.strath.ac.uk/figures/qubit.png)](https://en.wikipedia.org/wiki/Qubit)
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=zNzzGgr2mhk) - A nice video about the Quantum Bits 1
+* [YOUTUBE](https://www.youtube.com/watch?v=F8U1d2Hqark&t=179s) - A nice video about the Bits and Qubits 2
+                                                                   
