@@ -18,8 +18,6 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Photon wave](#quantumcomputing-photon-wave)
     - [Electron Fluctuation or spin](#quantumcomputing-elecfluctuation-spin)
     - [States](#quantumcomputing-states)
-    - [Tensors](#quantumcomputing-tensors)
-    - [Tensors Network](#quantumcomputing-tensors-network)
     - [SuperPosition](#quantumcomputing-superposition)
     - [SuperPosition specific for machine learning](#quantumcomputing-superpostion-machinelearning)
     - [Classical Bit](#quantumcomputing-classicalbit)
@@ -31,6 +29,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Registery QRAM](#quantumcomputing-qram) 
     - [Quantum Entanglement](#quantumcomputing-entanglement)
 - [QUANTUM COMPUTING MACHINE LEARNING BRIDGE](#qcmlbridge)
+    - [Tensors](#qcmlbridge-tensors)
+    - [Tensors Network](#qcmlbridge-tensors-network)             
     - [Oracle](#qcmlbridge-oracle)
     - [Hadamard transform](#qcmlbridge-hadamard)
     - [Hilbert Space](#qcmlbridge-hilbert)
@@ -174,3 +174,20 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [YOUTUBE](https://www.youtube.com/watch?v=3k5IWlVdMbo) - A nice animation video about the basic Electron Spin 2
 * [YOUTUBE](https://www.youtube.com/watch?v=jvvkomcmyuo) - A nice animation video about the basic Electron Spin 3
                  
+<a name="quantumcomputing-states"></a>
+#### States
+                 
+##### one line : Put a point on the spinning electron ,if the point is in the top then state 1 and its in bottom state 0 
+
+[![States](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/adeeplookint.jpg)](https://en.wikipedia.org/wiki/Quantum_state)
+                 
+* [YOUTUBE](https://www.youtube.com/watch?v=sICXOwOwS4E) - A nice animation video about the Quantum States
+                 
+<a name="quantumcomputing-states"></a>
+#### SuperPosition
+                 
+##### two line : During the spin of the electron the point may be in the middle of upper and lower position, So an effective decision needs to take on the point location either 0 or 1 . Better option to analyse it along with other electrons using probability and is called superposition
+
+[![SuperPosition](http://www.users.csbsju.edu/~frioux/superposition.GIF)](https://en.wikipedia.org/wiki/Quantum_superposition)
+                 
+* [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition                    
