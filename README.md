@@ -123,7 +123,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ##### In a single line study of an electron moved out of the atom then its classical mechanic ,vibrates inside the atom its quantum mechanics
 
 * [WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_mechanics) - Basic History and outline
-* [LIVESCIENCE](http://www.livescience.com/33816-quantum-mechanics-explanation.html).
+* [LIVESCIENCE](http://www.livescience.com/33816-quantum-mechanics-explanation.html). - A survey
 * [YOUTUBE](https://www.youtube.com/watch?v=7u_UQG1La1o) - Simple Animation Video Explanining Great.
 
 <a name="basics-what-quantum-computing"></a>
@@ -132,7 +132,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ##### A way of parallel execution of multiple processess in a same time using qubit ,It reduces the computation time and size of the processor probably in neuro size 
 
 * [WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_computing) - Basic History and outline
-* [WEBOPEDIA](http://www.webopedia.com/TERM/Q/quantum_computing.html).
+* [WEBOPEDIA](http://www.webopedia.com/TERM/Q/quantum_computing.html). - A survey
 * [YOUTUBE](https://www.youtube.com/watch?v=g_IaVepNDT4) - Simple Animation Video Explanining Great.
 
 <a name="basics-quantum-classical-vs"></a>
@@ -147,6 +147,30 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-atom-structure"></a>
 #### Atom Structure
                  
-##### one line : Electron Orbiting around the nucleous in a circle format
+##### one line : Electron Orbiting around the nucleous in an eliptical format
+ 
+* [YOUTUBE](https://www.youtube.com/watch?v=g_IaVepNDT4) - A nice animation video about the basic atom structure                   
 
 [![atom](https://media.giphy.com/media/Tc1NorMBJTBXG/giphy.gif)](https://en.wikipedia.org/wiki/Atom)
+                 
+<a name="quantumcomputing-photon-wave"></a>
+#### Photon Wave
+                 
+##### one line : Light nornmally called as wave transmitted as photons as similar as atoms in solid particles
+                 
+* [YOUTUBE](https://www.youtube.com/watch?v=fwXQjRBLwsQ) - A nice animation video about the basic photon 1                  
+* [YOUTUBE](https://www.youtube.com/watch?v=KKr91v7yLcM) - A nice animation video about the basic photon 2
+                 
+[![Photon wave](https://www.wired.com/images_blogs/wiredscience/2013/07/photon1.jpg)](https://en.wikipedia.org/wiki/Photon)
+                 
+<a name="quantumcomputing-elecfluctuation-spin"></a>
+#### Electron Fluctuation or spin
+                 
+##### one line : When a laser light collide with solid particles the electrons of the atom will get spin between the orbitary layers of the atom
+
+[![Spin](http://www.tanmoydas.com/images/spinWave.gif)](https://en.wikipedia.org/wiki/Spin_(physics))
+                 
+* [YOUTUBE](https://www.youtube.com/watch?v=J3xLuZNKhlY) - A nice animation video about the basic Electron Spin 1                  
+* [YOUTUBE](https://www.youtube.com/watch?v=3k5IWlVdMbo) - A nice animation video about the basic Electron Spin 2
+* [YOUTUBE](https://www.youtube.com/watch?v=jvvkomcmyuo) - A nice animation video about the basic Electron Spin 3
+                 
