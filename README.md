@@ -207,4 +207,4 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### one line : If electron moved from one one atom to other ,from ground state to excited state a bit value 1 is used else bit value 0 used
 
-[![Classical Bits](https://staff.aist.go.jp/v.zayets/SpinTransport/50/InverseSpinHall.gif)](https://en.wikipedia.org/wiki/Bit)
+[![Classical Bits](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/InverseSpinHall.gif)](https://en.wikipedia.org/wiki/Bit)                 
