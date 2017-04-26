@@ -19,7 +19,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Electron Fluctuation or spin](#quantumcomputing-elecfluctuation-spin)
     - [States](#quantumcomputing-states)
     - [SuperPosition](#quantumcomputing-superposition)
-    - [SuperPosition specific for machine learning](#quantumcomputing-superpostion-machinelearning)
+    - [SuperPosition specific for machine learning(Quantum Walks)](#quantumcomputing-superpostion-machinelearning)
     - [Classical Bit](#quantumcomputing-classicalbit)
     - [Quantum Bit or Qubit or Qbit](#quantumcomputing-qubit)
     - [Basic Gates in Quantum Computing](#quantumcomputing-basicgates)
@@ -192,3 +192,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![SuperPosition](http://www.users.csbsju.edu/~frioux/superposition.GIF)](https://en.wikipedia.org/wiki/Quantum_superposition)
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=hkmoZ8e5Qn0) - A nice animation video about the Quantum Superposition
+
+<a name="quantumcomputing-superpostion-machinelearning"></a>
+#### SuperPosition specific for machine learning(Quantum Walks)
+                 
+##### one line : As due to computational complexity ,quantum computing only consider superposition between limited electrons ,In case to merge more than one set quantum walk be the idea
+
+[![SuperPosition specific for machine learning](https://physik.uni-paderborn.de/fileadmin/physik/Arbeitsgruppen/AG_Silberhorn/img/Galtonboard4.theora.gif)](https://en.wikipedia.org/wiki/Quantum_walk)
+                 
+* [YOUTUBE](https://www.youtube.com/watch?v=86QsYPxoBow) - A nice video about the Quantum Walks
