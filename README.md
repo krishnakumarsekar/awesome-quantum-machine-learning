@@ -219,3 +219,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [YOUTUBE](https://www.youtube.com/watch?v=zNzzGgr2mhk) - A nice video about the Quantum Bits 1
 * [YOUTUBE](https://www.youtube.com/watch?v=F8U1d2Hqark&t=179s) - A nice video about the Bits and Qubits 2
                                                                    
+<a name="quantumcomputing-basicgates"></a>
+#### Basic Gates in Quantum Computing
+                 
+##### one line : As like NOT, OR and AND , Basic Gates like NOT, Hadamard gate , SWAP, Phase shift etc can be made with quantum gates 
+
+[![Basic Gates in Quantum Computing](http://www.mdpi.com/entropy/entropy-16-05290/article_deploy/html/images/entropy-16-05290f1-1024.png)](https://en.wikipedia.org/wiki/Quantum_gate)
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=2Qsh_w2kq9Y) - A nice video about the Quantum Gates                                                                   
