@@ -266,5 +266,22 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ##### one line : Comapring the normal ram ,its ultrafast and very small in size ,the address location can be access using qubits superposition value ,for a very large memory set coherent superposition(address of address) be used
 
 [![QRAM1](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/94d487c6ef4d0fa5594eff352aac19e2bfd47ffa/2-Figure1-1.png)](https://arxiv.org/pdf/0708.1879.pdf)
-                                                                                                                                    
+[![QRAM2](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/QRAM.png)](https://www.researchgate.net/publication/51394884_Quantum_Random_Access_Memory)
+                                                                   
 * [PDF](https://arxiv.org/pdf/0807.4994.pdf) - very Well Explained
+
+
+<a name="qcmlbridge"></a>
+## QUANTUM COMPUTING MACHINE LEARNING BRIDGE
+                                                                   
+
+<a name="qcmlbridge-complexNumbers"></a>
+#### Complex Numbers
+                 
+##### one line : Normally Waves Interference is in n dimensional structure , to find a polynomial equation n order curves ,better option is complex number 
+
+[![Complex Numbers1](http://www2.clarku.edu/~djoyce/complex/powers.gif)](https://en.wikipedia.org/wiki/Complex_number)
+[![Complex Numbers2](http://theoryofeverything.org/MyToE/wp-content/uploads/2014/12/outChaos2.png)](https://www.mathsisfun.com/numbers/complex-numbers.html)
+[![Complex Numbers3](http://www.mathwarehouse.com/algebra/complex-number/images/graphs/diagram-complex-plane.png)](https://en.wikipedia.org/wiki/Complex_number)
+                                                                                                                                    
+* [YOUTUBE](https://www.youtube.com/watch?v=T647CGsuOVU) - Wonderful Series very super Explained                                                                  
