@@ -247,4 +247,15 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
                                                                                                                                     
 * [QUORA](https://www.quora.com/What-is-the-equivalent-of-the-transistor-in-a-quantum-computer) -Discussion about the Quantum Transistor
-* [YOUTUBE](https://www.youtube.com/watch?v=ZTxR2n2mvjc) - Well Explained                                                                
+* [YOUTUBE](https://www.youtube.com/watch?v=ZTxR2n2mvjc) - Well Explained
+                                                                   
+<a name="quantumcomputing-processor"></a>
+#### Quantum Processor
+                 
+##### one line : A nano integration circuit performing the quantum gates operation sorrounded by cooling units to reduce the tremendous amount of heat 
+
+[![Quantum Processor1](https://www.dwavesys.com/sites/default/files/cooling-082015%20copy.png)](https://www.dwavesys.com/tutorials/background-reading-series/introduction-d-wave-quantum-hardware#h2-0)
+[![Quantum Processor2](https://www.photonics.com/images/Web/Articles/2014/6/5/Quantum_Circuit.png)](https://quantumexperience.ng.bluemix.net/qstage/?cm_mc_uid=36641337812614766932472&cm_mc_sid_50200000=1493295650#/user-guide)
+[![Quantum Processor3](https://universe-review.ca/I13-13-superconductive.jpg)](https://www.cbinsights.com/blog/quantum-computing-corporations-list/)
+                                                                                                                                    
+* [YOUTUBE](https://www.youtube.com/watch?v=CMdHDHEuOUE) - Well Explained
