@@ -226,4 +226,25 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![Basic Gates in Quantum Computing](http://www.mdpi.com/entropy/entropy-16-05290/article_deploy/html/images/entropy-16-05290f1-1024.png)](https://en.wikipedia.org/wiki/Quantum_gate)
                                                                    
-* [YOUTUBE](https://www.youtube.com/watch?v=2Qsh_w2kq9Y) - A nice video about the Quantum Gates                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=2Qsh_w2kq9Y) - A nice video about the Quantum Gates
+                                                                   
+<a name="quantumcomputing-diode"></a>
+#### Quantum Diode
+                 
+##### one line : Quantum Diodes using a different idea from normal diode, A bunch of laser photons trigger the electron to spin and the quantum magnetic flux will capture the information  
+
+[![Basic Gates in Quantum Computing](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Simple_qw_laser_diode.svg/1280px-Simple_qw_laser_diode.svg.png)](https://www.nature.com/articles/ncomms12978)
+                                                                   
+* [YOUTUBE](https://www.youtube.com/watch?v=doyK1olswX4) - A nice video about the Quantum Diode
+                                                                   
+<a name="quantumcomputing-transistor"></a>
+#### Quantum Transistors
+                 
+##### one line : A transistor default have Source ,drain and gate ,Here source is photon wave ,drain is flux and gate is classical to quantum bits 
+
+[![Quantum Transistors1](https://images.sciencedaily.com/2010/05/100514075106_1_900x600.jpg)](http://www.mpq.mpg.de/4987844/qip)
+[![Quantum Transistors2](http://www.mpq.mpg.de/5016851/standard-1412932044.png)](https://en.wikipedia.org/wiki/Magnetic_flux_quantum)
+
+                                                                                                                                    
+* [QUORA](https://www.quora.com/What-is-the-equivalent-of-the-transistor-in-a-quantum-computer) -Discussion about the Quantum Transistor
+* [YOUTUBE](https://www.youtube.com/watch?v=ZTxR2n2mvjc) - Well Explained                                                                
