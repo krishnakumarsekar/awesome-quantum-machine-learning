@@ -312,6 +312,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Software](https://www.quantiki.org/wiki/list-qc-simulators) - Nice content of all
 * [Python library](http://qutip.org/) - A python library
 * [Matlab based python library](https://pypi.python.org/pypi/qit) - Matlab Python Library
+* [Quantum Tensor Network Github](https://github.com/emstoudenmire/TNML) - Tensor Network 
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
