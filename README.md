@@ -259,3 +259,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![Quantum Processor3](https://universe-review.ca/I13-13-superconductive.jpg)](https://www.cbinsights.com/blog/quantum-computing-corporations-list/)
                                                                                                                                     
 * [YOUTUBE](https://www.youtube.com/watch?v=CMdHDHEuOUE) - Well Explained
+                                                                   
+<a name="quantumcomputing-qram"></a>
+#### Quantum Registery QRAM
+                 
+##### one line : Comapring the normal ram ,its ultrafast and very small in size ,the address location can be access using qubits superposition value ,for a very large memory set coherent superposition(address of address) be used
+
+[![QRAM1](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/94d487c6ef4d0fa5594eff352aac19e2bfd47ffa/2-Figure1-1.png)](https://arxiv.org/pdf/0708.1879.pdf)
+                                                                                                                                    
+* [PDF](https://arxiv.org/pdf/0807.4994.pdf) - very Well Explained
