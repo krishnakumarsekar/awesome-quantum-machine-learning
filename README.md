@@ -296,5 +296,25 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![Tensors3](https://inspirehep.net/record/1082123/files/Fig1.png)](https://en.wikipedia.org/wiki/Tensor_product)
 [![Tensors4](https://inspirehep.net/record/1237922/files/fig1.png)](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces)
                                                                                                                                     
-* [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics                  
-* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics                                                                 
+* [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics
+* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics
+                                                                   
+                                                                   
+<a name="qpl"></a>
+## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
+                                                                   
+
+<a name="qpl-all"></a>
+#### All
+                 
+##### info : All Programming languages ,softwares and tools in alphabetical order 
+                                                                                                                                    
+* [Software](https://www.quantiki.org/wiki/list-qc-simulators) - Nice content of all
+* [Python library](http://qutip.org/) - A python library
+* [Matlab based python library](https://pypi.python.org/pypi/qit) - Matlab Python Library
+* [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quantum Database](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
