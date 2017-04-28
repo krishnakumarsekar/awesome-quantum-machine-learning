@@ -38,7 +38,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [eigenvalues and eigenvectors](#qcmlbridge-eigen)
     - [Schr¨odinger Operators](#qcmlbridge-schrodinger)
     - [Quantum lambda calculus](#qcmlbridge-lamda)
-    - [Quantum Amplitute Phase](#qcmlbridge-amp-phase)             
+    - [Quantum Amplitute Phase](#qcmlbridge-amp-phase)
+    - [Qubits Encode and Decode](#qcmlbridge-encode-decode)
     - [convert classical bit to qubit](#qcmlbridge-classical-qubit)
     - [Quantum Dirac and Kets](#qcmlbridge-dirac-ket)
     - [Quantum Complexity](#qcmlbridge-complexity)
@@ -343,12 +344,22 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumalgorithmsml-kmeans"></a>
 #### Quantum K-Means
                  
-##### info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regerssive loss can be tally using the average 
+##### info : Two Approaches possible ,1. FFT and iFFT to make an oracle and calculate the means of superposition 2. Adiobtic Hamiltonian generation and solve the hamiltonian to determine the cluster 
                                                                                                                                     
 * [PDF1](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf) - Applying Quantum Kmeans on Images in a nice way
 * [PDF2](http://www.machinelearning.org/proceedings/icml2007/papers/518.pdf) - Theory
+* [PDF3](https://arxiv.org/pdf/1307.0411.pdf) - Explaining well the K-means clustering using hamiltonian 
 * [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon 
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
+                                                                   
+<a name="quantumalgorithmsml-qfcm"></a>
+#### Quantum Fuzzy C-Means
+                 
+##### info : As similar to kmeans fcm also using the oracle dialect ,but instead of means,here oracle optimization followed by a rotation gate is giving a good result
+                                                                                                                                    
+* [PDF1](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf) - Theory
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
                                                                    
 <a name="qpl"></a>
