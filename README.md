@@ -73,7 +73,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Camera](#quantumhottopics-camera)
     - [Quantum Mathematics](#quantumhottopics-mathematics)
     - [Quantum Information Processing](#quantumhottopics-informationprocessing)
-    - [Quantum Image Processing](#quantumhottopics-imageprocessing)           
+    - [Quantum Image Processing](#quantumhottopics-imageprocessing)
+    - [Quantum Cryptography](#quantumhottopics-cryptography)
+    - [Quantum Elastic Search](#quantumhottopics-elasticsearch)  
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
 - [QUANTUM BASED COMPANIES](#quantumcompanies)
@@ -299,6 +301,31 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics
 * [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics
                                                                    
+<a name="qcmlbridge-tensors"></a>
+#### Tensors
+                 
+##### one line : Vectors have a direction in 2D vector space ,If on a n dimensional vector space ,vectors direction can be specify with the tensor ,The best solution to find the superposition of a n vector electrons spin space is representing vectors as tensors and doing tensor calculus
+
+[![Tensors1](https://i.stack.imgur.com/5QsMD.png)](https://en.wikipedia.org/wiki/Tensor)
+[![Tensors2](https://pbs.twimg.com/media/CK-LzV7VAAAdIC3.jpg)](https://www.quantiki.org/wiki/tensor-product)
+[![Tensors3](https://inspirehep.net/record/1082123/files/Fig1.png)](https://en.wikipedia.org/wiki/Tensor_product)
+[![Tensors4](https://inspirehep.net/record/1237922/files/fig1.png)](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces)
+                                                                                                                                    
+* [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics
+* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics
+                                                                   
+<a name="qcmlbridge-tensors-network"></a>
+#### Tensors Network
+                 
+##### one line : As like connecting multiple vectors ,multple tensors form a network ,solving such a network reduce the complexity of processing qubits
+
+[![Tensors Network1](http://www.cse.unsw.edu.au/~billw/cs9444/tensor-stuff/tensor-intro-0418.gif)](https://arxiv.org/pdf/1306.2164.pdf)
+[![Tensors Network2](http://www.quantuminfo.physik.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaiejix)](https://en.wikipedia.org/wiki/Tensor_network_theory)
+[![Tensors Network3](https://inspirehep.net/record/1242488/files/gSymTN.png)](https://www2.warwick.ac.uk/fac/sci/physics/current/postgraduate/pglist/phrfbk/presentations/leeds14.pdf)
+                                                                                                                                    
+* [YOUTUBE](https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el) - Tensors Network Some ideas specifically for quantum algorithms
+                                                                   
+ 
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
