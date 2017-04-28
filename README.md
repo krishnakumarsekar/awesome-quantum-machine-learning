@@ -325,7 +325,31 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                                                                                     
 * [YOUTUBE](https://www.youtube.com/watch?v=bD-CWgbsCeI&list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el) - Tensors Network Some ideas specifically for quantum algorithms
                                                                    
- 
+
+<a name="quantumalgorithmsml"></a>
+## QUANTUM MACHINE LEARNING ALGORITHMS
+                                                                   
+
+<a name="quantumalgorithmsml-qknn"></a>
+#### Quantum K-Nearest Neighbour
+                 
+##### info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regerssive loss can be tally using the average 
+                                                                                                                                    
+* [PDF1 from Microsoft](https://www.microsoft.com/en-us/research/publication/quantum-nearest-neighbor-algorithms-for-machine-learning/) - Theory Explanation
+* [PDF2](https://arxiv.org/pdf/1409.3097.pdf) - A Good Material to understand the basics
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
+                                                                   
+<a name="quantumalgorithmsml-kmeans"></a>
+#### Quantum K-Means
+                 
+##### info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regerssive loss can be tally using the average 
+                                                                                                                                    
+* [PDF1](https://pdfs.semanticscholar.org/6d77/54d33958b4a41d57ec99558eb28ae88f9884.pdf) - Applying Quantum Kmeans on Images in a nice way
+* [PDF2](http://www.machinelearning.org/proceedings/icml2007/papers/518.pdf) - Theory
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon 
+                                                                   
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
