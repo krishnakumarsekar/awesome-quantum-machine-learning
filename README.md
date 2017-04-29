@@ -57,10 +57,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum K-Means](#quantumalgorithmsml-kmeans)
     - [Quantum Fuzzy C-Means](#quantumalgorithmsml-qfcm)
     - [Quantum Support Vector Machine](#quantumalgorithmsml-svm)
-    - [Quantum Genetic Algorithm](#quantumalgorithmsml-gn)
+    - [Quantum Genetic Algorithm](#quantumalgorithmsml-genetic)
     - [Quantum Hidden Morkov Models](#quantumalgorithmsml-hmm)
     - [Quantum state classification with Bayesian methods](#quantumalgorithmsml-bayesian)
     - [Quantum Ant Colony Optimization](#quantumalgorithmsml-antcolony)
+    - [Quantum Cellular Automata](#quantumalgorithmsml-caautomata)
 - [QAUNTUM NEURAL NETWORK](#qnn)
     - [Quantum perceptrons](#qnn-perceptron)
     - [QANN](#qnn-qann)
@@ -76,7 +77,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Information Processing](#quantumhottopics-informationprocessing)
     - [Quantum Image Processing](#quantumhottopics-imageprocessing)
     - [Quantum Cryptography](#quantumhottopics-cryptography)
-    - [Quantum Elastic Search](#quantumhottopics-elasticsearch)  
+    - [Quantum Elastic Search](#quantumhottopics-elasticsearch)
+    - [Quantum DNA Computing](#quantumhottopics-dna)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
 - [QUANTUM BASED COMPANIES](#quantumcompanies)
@@ -367,6 +369,19 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ##### info : A little different from above as here kernel preparation is via classical and the whole training be in oracles and oracle will do the classification, As SVM is linear ,An optimal Error(Optimum of the Least Squares Dual Formulation) Based regression is needed to improve the performance
                                                                                                                                     
 * [PDF1](https://arxiv.org/pdf/1307.0471.pdf) - Nice Explanation but little hard to understand :)
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
+                                                                   
+<a name="quantumalgorithmsml-genetic"></a>
+#### Genetic Algorithm
+                 
+##### info : One of the best algorithm suited for Quantum Field ,Here the chromosomes act as qubit vectors ,the crossover part carrying by an evaluation and the mutation part carrying by the rotation of gates
+  
+[![Flow Chart](https://www.hindawi.com/journals/mpe/2013/730749.fig.001.jpg)]()                                                                   
+
+* [PDF1](https://www.hindawi.com/journals/mpe/2013/730749/) - Very Beautiful Article , well explained and superp                                                                 
+* [PDF2](https://arxiv.org/pdf/1202.2026.pdf) - A big theory :)
+* [PDF3](https://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf) - Super Comparison
 * [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
