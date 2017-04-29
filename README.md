@@ -361,6 +361,14 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
+<a name="quantumalgorithmsml-svm"></a>
+#### Quantum Support Vector Machine
+                 
+##### info : A little different from above as here kernel preparation is via classical and the whole training be in oracles and oracle will do the classification, As SVM is linear ,An optimal Error(Optimum of the Least Squares Dual Formulation) Based regression is needed to improve the performance
+                                                                                                                                    
+* [PDF1](https://arxiv.org/pdf/1307.0471.pdf) - Nice Explanation but little hard to understand :)
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
