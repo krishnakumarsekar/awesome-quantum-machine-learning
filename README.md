@@ -369,11 +369,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ##### info : A little different from above as here kernel preparation is via classical and the whole training be in oracles and oracle will do the classification, As SVM is linear ,An optimal Error(Optimum of the Least Squares Dual Formulation) Based regression is needed to improve the performance
                                                                                                                                     
 * [PDF1](https://arxiv.org/pdf/1307.0471.pdf) - Nice Explanation but little hard to understand :)
+* [PDF2](http://www.scirp.org/journal/PaperInformation.aspx?paperID=72542) - Nice Application of QSVM
 * [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
 <a name="quantumalgorithmsml-genetic"></a>
-#### Genetic Algorithm
+#### Quantum Genetic Algorithm
                  
 ##### info : One of the best algorithm suited for Quantum Field ,Here the chromosomes act as qubit vectors ,the crossover part carrying by an evaluation and the mutation part carrying by the rotation of gates
   
@@ -382,8 +383,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [PDF1](https://www.hindawi.com/journals/mpe/2013/730749/) - Very Beautiful Article , well explained and superp                                                                 
 * [PDF2](https://arxiv.org/pdf/1202.2026.pdf) - A big theory :)
 * [PDF3](https://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf) - Super Comparison
-* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come soon
-* [Python](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [Matlab](http://www.codelooker.com/id/155/717734.html) - Simulation
+* [Python1](https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/) - Simulation
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come                                                                   
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
