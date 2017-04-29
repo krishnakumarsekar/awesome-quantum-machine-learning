@@ -382,7 +382,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 * [PDF1](https://www.hindawi.com/journals/mpe/2013/730749/) - Very Beautiful Article , well explained and superp                                                                 
 * [PDF2](https://arxiv.org/pdf/1202.2026.pdf) - A big theory :)
-* [PDF3](https://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf) - Super Comparison
+* [PDF3](http://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf) - Super Comparison
 * [Matlab](http://www.codelooker.com/id/155/717734.html) - Simulation
 * [Python1](https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/) - Simulation
 * [Python2](https://github.com/krishnakumarsekar/) - Yet to come                                                                   
