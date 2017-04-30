@@ -79,6 +79,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Cryptography](#quantumhottopics-cryptography)
     - [Quantum Elastic Search](#quantumhottopics-elasticsearch)
     - [Quantum DNA Computing](#quantumhottopics-dna)
+- [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
 - [QUANTUM BASED COMPANIES](#quantumcompanies)
@@ -385,7 +386,20 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [PDF3](http://ccis2k.org/iajit/PDF/vol.9,no.3/2107-6.pdf) - Super Comparison
 * [Matlab](http://www.codelooker.com/id/155/717734.html) - Simulation
 * [Python1](https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms/) - Simulation
-* [Python2](https://github.com/krishnakumarsekar/) - Yet to come                                                                   
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come
+                                                                   
+<a name="quantumalgorithmsml-hmm"></a>
+#### Quantum Hidden Morkov Models
+                 
+##### info : As HMM is already state based ,Here the quantum states acts as normal for the markov chain and the shift between states is using quantum operation based on probability distribution 
+  
+[![Flow Chart](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/quantum%20HMM.png)]()                                                                   
+
+* [PDF1](https://arxiv.org/pdf/1503.08760.pdf) - Nice idea and explanation                                                              
+* [PDF2](https://arxiv.org/pdf/1207.4304.pdf) - Nice but a different concept little
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python1](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
