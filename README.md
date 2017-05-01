@@ -62,6 +62,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum state classification with Bayesian methods](#quantumalgorithmsml-bayesian)
     - [Quantum Ant Colony Optimization](#quantumalgorithmsml-antcolony)
     - [Quantum Cellular Automata](#quantumalgorithmsml-caautomata)
+    - [Quantum Classification using Principle Component Analysis](#quantumalgorithmsml-pca)
 - [QAUNTUM NEURAL NETWORK](#qnn)
     - [Quantum perceptrons](#qnn-perceptron)
     - [QANN](#qnn-qann)
@@ -388,6 +389,21 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Python1](https://github.com/krishnakumarsekar/) - Yet to come
 * [Python2](https://github.com/krishnakumarsekar/) - Yet to come
                                                                    
+<a name="quantumalgorithmsml-bayesian"></a>
+#### Quantum state classification with Bayesian methods
+                 
+##### info : Quantum Bayesian Network having the same states concept using quantum states,But here the states classification to make the training data as reusable is based on the density of the states(Interference) 
+  
+[![Bayesian Network Sample1](https://image.slidesharecdn.com/sweden-150720134538-lva1-app6892/95/quantumlike-bayesian-networks-using-feynmans-path-diagram-rules-13-638.jpg?cb=1437400046)]()                                                                   
+[![Bayesian Network Sample2](https://image.slidesharecdn.com/sml-150512222733-lva1-app6891/95/quantum-models-for-decision-and-cognition-83-638.jpg?cb=1431469807)]()                                                                   
+[![Bayesian Network Sample3](http://ars.els-cdn.com/content/image/1-s2.0-S1568494614004499-fx1.jpg)]()                                                                   
+                                                                   
+* [PDF1](https://arxiv.org/pdf/1204.1550.pdf) - Good Theory                                                              
+* [PDF2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4726808/) - Good Explanation
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python1](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come
+                                                                   
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
                                                                    
@@ -411,7 +427,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="qmlvsdl"></a>
 ## Quantum Machine Learning vs Deep Learning
                                                                                     
-#### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google,microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
+##### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google,microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
                  
 ##### The one answer to all questions is deep learning = parallel "for" loops ,No more than that ,Its an effective way of executing multiple tasks repeatly and to reduce the computation cost, But it introduce a big cap between mathematics and computerscience , How ?  
 
