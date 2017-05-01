@@ -408,13 +408,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
-<a name="qpl"></a>
-## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
-                                                                   
-
 <a name="qmlvsdl"></a>
-#### Quantum Machine Learning vs Deep Learning
-                 
+## Quantum Machine Learning vs Deep Learning
+                                                                                    
 #### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google,microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
                  
 ##### The one answer to all questions is deep learning = parallel "for" loops ,No more than that ,Its an effective way of executing multiple tasks repeatly and to reduce the computation cost, But it introduce a big cap between mathematics and computerscience , How ?  
