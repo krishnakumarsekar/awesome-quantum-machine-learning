@@ -420,3 +420,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Quantum Database](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
+                                                                   
+### License
+
+[![License](https://creativecommons.org/images/deed/cc-logo.jpg)]
+                                                                   
+### Contribution
+
+[![Contribution](http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md)
