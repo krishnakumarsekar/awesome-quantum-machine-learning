@@ -408,6 +408,35 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
                                                                    
+<a name="qpl"></a>
+## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
+                                                                   
+
+<a name="qmlvsdl"></a>
+#### Quantum Machine Learning vs Deep Learning
+                 
+#### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google,microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
+                 
+##### The one answer to all questions is deep learning = parallel "for" loops ,No more than that ,Its an effective way of executing multiple tasks repeatly and to reduce the computation cost, But it introduce a big cap between mathematics and computerscience , How ?  
+
+##### All classical algorithms based on serial processing ,Its depends on the feedback of the first loop ,On applying a serial classical algorithm in multiple clusters wont give a good result ,but some light weight parallel classical algorithms(Deep learning) doing the job in multiple clusters and its not suitable for complex problems, What is the solution for then? 
+
+##### As in the title Quantum Machine Learning ,The advantage behind is deep learning is doing the batch processing simply on the data ,but quantum machine learning designed to do batch processing as per the algorithm
+
+##### The product companies realised this one and they started migrating to quantum machine learning and executing the classical algorithms on quantum concept gives better result than deep learning algorithms on classical computer and the target to merge both to give very wonderful result 
+
+##### References
+     
+* [Quora](https://www.quora.com/How-will-quantum-computing-revolutionize-deep-learning) - Good Discussion
+* [Quora](https://www.quora.com/Will-quantum-computing-change-machine-learning) - The Bridge Discussion
+* [Pdf](http://www.scottaaronson.com/papers/qml.pdf) - Nice Discussion
+* [Google](https://venturebeat.com/2015/11/11/google-researcher-quantum-computers-arent-perfect-for-deep-learning/) - Google Research Discussion
+* [Microsoft](http://www.physics.usyd.edu.au/quantum/Coogee2015/Presentations/Svore.pdf) - Microsoft plan to merge both
+* [IBM](https://www.rtinsights.com/ibm-quantum-computing-with-machine-learning-in-cloud/) - IBM plan to merge both
+* [IBM Project](https://www.ibm.com/blogs/research/2017/03/quantum-algorithm-classifies-9500-handwritten-numbers/) - IBM Project idea
+* [MIT and Google](https://www.technologyreview.com/s/544421/googles-quantum-dream-machine/) - Solutions for all questions
+
+                                                                   
 ### License
 
 [![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
