@@ -423,8 +423,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 ### License
 
-[![License](https://creativecommons.org/images/deed/cc-logo.jpg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
+[![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
                                                                    
 ### Contribution
 
-[![Contribution](http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md)
+<a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200" ></a>
