@@ -303,20 +303,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![Tensors4](https://inspirehep.net/record/1237922/files/fig1.png)](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces)
                                                                                                                                     
 * [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics
-* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics
-                                                                   
-<a name="qcmlbridge-tensors"></a>
-#### Tensors
-                 
-##### one line : Vectors have a direction in 2D vector space ,If on a n dimensional vector space ,vectors direction can be specify with the tensor ,The best solution to find the superposition of a n vector electrons spin space is representing vectors as tensors and doing tensor calculus
-
-[![Tensors1](https://i.stack.imgur.com/5QsMD.png)](https://en.wikipedia.org/wiki/Tensor)
-[![Tensors2](https://pbs.twimg.com/media/CK-LzV7VAAAdIC3.jpg)](https://www.quantiki.org/wiki/tensor-product)
-[![Tensors3](https://inspirehep.net/record/1082123/files/Fig1.png)](https://en.wikipedia.org/wiki/Tensor_product)
-[![Tensors4](https://inspirehep.net/record/1237922/files/fig1.png)](https://en.wikipedia.org/wiki/Tensor_product_of_Hilbert_spaces)
-                                                                                                                                    
-* [YOUTUBE](https://www.youtube.com/watch?v=f5liqUk0ZTw) - Wonderful super Explained tensors basics
-* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics
+* [YOUTUBE](https://www.youtube.com/watch?v=xzG6c96PsLs) - Quantum tensors basics                                                                  
                                                                    
 <a name="qcmlbridge-tensors-network"></a>
 #### Tensors Network
