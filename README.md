@@ -404,6 +404,19 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Python1](https://github.com/krishnakumarsekar/) - Yet to come
 * [Python2](https://github.com/krishnakumarsekar/) - Yet to come
                                                                    
+<a name="quantumalgorithmsml-antcolony"></a>
+#### Quantum Ant Colony Optimization
+                 
+##### info : A good algorithm to process multi dimensional equations, ACO is best suited for Sales man issue , QACO is best suited for Sales man in three or more dimension, Here the quantum rotation circuit is doing the peromene update and qubits based colony communicating all around the colony in complex space
+  
+[![Ant Colony Optimization 1](https://agatakycia.files.wordpress.com/2013/06/minimalpathmodule1.jpg)]()                                                                   
+                                                                   
+* [PDF1](http://ac.els-cdn.com/S2212667812001359/1-s2.0-S2212667812001359-main.pdf?_tid=42e0cd66-2f4a-11e7-920f-00000aacb361&acdnat=1493738345_8f536599e404c7588811ddd49c484688) - Good Concept                                                              
+* [PDF2](http://www.sersc.org/journals/IJMUE/vol10_no11_2015/19.pdf) - Good Application
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python1](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come
+                                                                   
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
                                                                    
