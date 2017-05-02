@@ -422,7 +422,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### info : One of the very complex algorithm with various types specifically used for polynomial equations and to design the optimistic gates for a problem, Here the lattice is formed using the quatum states and time calculation is based on the change of the state between two qubits ,Best suited for nano electronics
   
-[![Quantum Cellular Automata](http://www.mina.ubc.ca/files/ta2-color_orig%20b.jpg)]()                                                                   
+[![Quantum Cellular Automata](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/ta2-color_orig%20b.jpg)]()                                                                   
                                                                    
 * [Wikipedia](https://en.wikipedia.org/wiki/Quantum_cellular_automaton) - Basic                                                              
 * [PDF1](https://arxiv.org/pdf/0808.0679.pdf) - Just to get the keywords
@@ -482,12 +482,16 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 ### Contribution
 
-<a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200" ></a>
-
+<div>
+	<a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200" ></a>
+</div>
+                                                                   
 ### Dedicated Opensources
 
-<a href=""><img src="https://thumbs.dreamstime.com/z/under-construction-coming-soon-label-vector-illustration-eps-39966331.jpg" align="left" height="200" width="200" ></a>
-
+<div>
+ 	<a href=""><img src="https://thumbs.dreamstime.com/z/under-construction-coming-soon-label-vector-illustration-eps-39966331.jpg" align="left" height="200" width="200" ></a>
+</div>
+                                                                   
 ##### Source code of plenty of Algortihms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
 ##### Good Explanations of Plenty of algorithms with flow chart etc
 ##### Comparison Matrix of plenty of algorithms                                                                   
