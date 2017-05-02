@@ -482,16 +482,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 ### Contribution
 
-<div>
-	<a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200" ></a>
-</div>
-                                                                   
+<a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200" ></a>
+
 ### Dedicated Opensources
 
-<div>
- 	<a href=""><img src="https://thumbs.dreamstime.com/z/under-construction-coming-soon-label-vector-illustration-eps-39966331.jpg" align="left" height="200" width="200" ></a>
-</div>
-                                                                   
+[![Dedicated Opensources](http://livingintown.com/wp-content/uploads/sites/1112/2015/03/coming-soon-small.jpg)]()
+                                                                  
 ##### Source code of plenty of Algortihms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
 ##### Good Explanations of Plenty of algorithms with flow chart etc
 ##### Comparison Matrix of plenty of algorithms                                                                   
