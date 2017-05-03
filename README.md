@@ -86,8 +86,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 - [QUANTUM BASED COMPANIES](#quantumcompanies)
 - [QUANTUM LINKEDLIN](#quantumlinkedlin)
 - [QUANTUM BASED DEGREES](#quantumdegrees)
-- [CONSOLIDATED QUANTUM BOOKS](#quantumconsolidatedbooks)
-- [CONSOLIDATED QUANTUM VIDEOS](#quantumconsolidatedvideos)
+- [CONSOLIDATED QUANTUM ML BOOKS](#quantumconsolidatedbooks)
+- [CONSOLIDATED QUANTUM ML VIDEOS](#quantumconsolidatedvideos)
+- [CONSOLIDATED QUANTUM ML Reserach Papers](#quantumconsolidatedresearchpapers)
+- [CONSOLIDATED QUANTUM ML Reserach Scientist](#quantumconsolidatedresearchscientist)
+                                                                   
 
 <!-- /MarkdownTOC -->
 
