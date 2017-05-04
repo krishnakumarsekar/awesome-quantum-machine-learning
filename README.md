@@ -478,6 +478,132 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [IBM Project](https://www.ibm.com/blogs/research/2017/03/quantum-algorithm-classifies-9500-handwritten-numbers/) - IBM Project idea
 * [MIT and Google](https://www.technologyreview.com/s/544421/googles-quantum-dream-machine/) - Solutions for all questions
 
+<a name="quantumdegrees"></a>
+## QUANTUM BASED DEGREES
+
+##### Plenty of courses around the world and many Universities Launching it day by day ,Instead of covering only Quantum ML , Covering all Quantum Related topics gives more idea in the order below
+                                                                   
+#### Available Courses
+
+###### Quantum Mechanics for Science and Engineers
+
+####### Online
+                                                                   
+* [Standford university](http://online.stanford.edu/course/qmse01-quantum-mechanics-scientists-and-engineers) - Nice Preparatory Course
+* [edx](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/info) - Quantum Mechanics for Everyone
+                                                                   
+####### Class Based Course
+                                                                   
+####### UK
+
+* [Bristol](http://www.bristol.ac.uk/maths/study/undergraduate/units1617/levelh6units/quantum-mechanics-math35500/)
+                                                                   
+####### Australia
+                                                                   
+* [Australian National University](http://programsandcourses.anu.edu.au/course/PHYS2013)
+                                                                   
+####### Europe
+                                                                   
+* [Maxs Planks University](http://programsandcourses.anu.edu.au/course/PHYS2013)
+                                                                   
+###### Quantum Physics
+                                                                   
+####### Online
+
+* [MIT](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) - Super Explanation and well basics
+
+####### Class Based Course
+                                                                   
+####### Europe
+
+* [University of Copenhagen](http://www.nbi.ku.dk/english/research/quantum-physics/)
+                                                                   
+###### Quantum Chemistry
+
+####### Class Based Course
+                                                                   
+* [UGent Belgium](http://www.quantum.ugent.be/)
+                                                                   
+###### Quantum Computing
+
+####### Online
+
+* [MIT](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm) - Super Explanation and well basics
+* [edx](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Nice Explanation
+
+####### Class Based Course
+                                                                   
+####### Canada
+                                                                   
+* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
+
+####### Singapore
+                                                                   
+* [National University Singapore](http://www.quantumlah.org/)
+
+####### USA
+                                                                   
+* [Berkley](http://www.quantumlah.org/)
+                                                                                                                                                                                                         
+###### Quantum Technology
+
+####### Class Based Course
+                                                                   
+####### Canada
+                                                                   
+* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
+
+####### Singapore
+                                                                   
+* [National University Singapore](http://www.quantumlah.org/)
+
+####### Europe
+                                                                   
+* [Munich](http://www.munich-quantum-center.de/index.php?id=1)
+                                                                   
+                                                                   
+###### Quantum Information Science
+
+####### External Links
+
+* [quantwiki](https://www.quantiki.org/wiki/courses-quantum-information-science)
+                                                                   
+####### Online
+
+* [MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/) - Super Explanation and well basics
+* [edx](https://www.edx.org/course/quantum-information-science-ii-mitx-8-371x) - Nice Explanation
+
+####### Class Based Course
+                                                                   
+####### USA
+                                                                   
+* [MIT](http://qis.mit.edu/)
+* [Standford University](https://web.stanford.edu/group/yamamotogroup/)
+
+####### Singapore
+                                                                   
+* [National University Singapore](http://www.quantumlah.org/)
+
+####### Europe
+                                                                   
+* [ULB Belgium](http://quic.ulb.ac.be/teaching)
+                                                                   
+                                                                                                                                      
+###### Quantum Electronics
+
+####### External Links
+
+                                                                   
+####### Online
+
+
+####### Class Based Course
+                                                                   
+                                                                   
+####### Asia
+                                                                   
+* [Tata Institute](http://www.tifr.res.in/~quantro/index.html)
+                                                
                                                                    
 ### License
 
