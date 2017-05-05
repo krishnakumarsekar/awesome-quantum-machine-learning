@@ -439,6 +439,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Python1](https://github.com/krishnakumarsekar/) - Yet to come
 * [Python2](https://github.com/krishnakumarsekar/) - Yet to come
                                                                    
+                                                                   
+<a name="qnn"></a>
+## QAUNTUM NEURAL NETWORK
+                                                                   
+[![QNN 1](https://silky.github.io/images/transition-to-quantum-nn.png)](https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html)
+                                                                   
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
                                                                    
