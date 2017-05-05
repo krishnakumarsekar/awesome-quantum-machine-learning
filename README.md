@@ -52,6 +52,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Phase Estimation](#quantumalgorithms-phase-estimation)
     - [Haar Tansform](#quantumalgorithms-haar)
     - [Quantum Ridgelet Transform](#quantumalgorithms-ridgelet)
+    - [Quantum NP Problem](#quantumalgorithms-npproblem)
 - [QUANTUM MACHINE LEARNING ALGORITHMS](#quantumalgorithmsml)
     - [Quantum K-Nearest Neighbour](#quantumalgorithmsml-qknn)
     - [Quantum K-Means](#quantumalgorithmsml-kmeans)
@@ -80,6 +81,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Cryptography](#quantumhottopics-cryptography)
     - [Quantum Elastic Search](#quantumhottopics-elasticsearch)
     - [Quantum DNA Computing](#quantumhottopics-dna)
+    - [Adiabetic Quantum Computing](#quantumhottopics-adiabetic)
+    - [Topological Big Data Anlytics using Quantum](#quantumhottopics-topologicalbigdata)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -487,124 +490,133 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 ###### Quantum Mechanics for Science and Engineers
 
-####### Online
+* Online
                                                                    
-* [Standford university](http://online.stanford.edu/course/qmse01-quantum-mechanics-scientists-and-engineers) - Nice Preparatory Course
-* [edx](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/info) - Quantum Mechanics for Everyone
+	* [Standford university](http://online.stanford.edu/course/qmse01-quantum-mechanics-scientists-and-engineers) - Nice Preparatory Course
+	* [edx](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/info) - Quantum Mechanics for Everyone
                                                                    
-####### Class Based Course
+* Class Based Course
                                                                    
-####### UK
+	* UK
 
-* [Bristol](http://www.bristol.ac.uk/maths/study/undergraduate/units1617/levelh6units/quantum-mechanics-math35500/)
+		* [Bristol](http://www.bristol.ac.uk/maths/study/undergraduate/units1617/levelh6units/quantum-mechanics-math35500/)
                                                                    
-####### Australia
+	* Australia
                                                                    
-* [Australian National University](http://programsandcourses.anu.edu.au/course/PHYS2013)
+		* [Australian National University](http://programsandcourses.anu.edu.au/course/PHYS2013)
                                                                    
-####### Europe
+	* Europe
                                                                    
-* [Maxs Planks University](http://programsandcourses.anu.edu.au/course/PHYS2013)
+		* [Maxs Planks University](http://programsandcourses.anu.edu.au/course/PHYS2013)
                                                                    
 ###### Quantum Physics
                                                                    
-####### Online
+* Online
 
-* [MIT](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) - Super Explanation and well basics
+	* [MIT](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) - Super Explanation and well basics
 
-####### Class Based Course
+* Class Based Course
                                                                    
-####### Europe
+	* Europe
 
-* [University of Copenhagen](http://www.nbi.ku.dk/english/research/quantum-physics/)
+		* [University of Copenhagen](http://www.nbi.ku.dk/english/research/quantum-physics/)
                                                                    
 ###### Quantum Chemistry
 
-####### Class Based Course
+* Class Based Course
                                                                    
-* [UGent Belgium](http://www.quantum.ugent.be/)
+	* Europe
+
+		* [UGent Belgium](http://www.quantum.ugent.be/)
                                                                    
 ###### Quantum Computing
 
-####### Online
+* Online
 
-* [MIT](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm) - Super Explanation and well basics
-* [edx](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Nice Explanation
+	* [MIT](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm) - Super Explanation and well basics
+	* [edx](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Nice Explanation
 
-####### Class Based Course
+* Class Based Course
                                                                    
-####### Canada
+	* Canada
                                                                    
-* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
+		* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
 
-####### Singapore
+	* Singapore
                                                                    
-* [National University Singapore](http://www.quantumlah.org/)
+		* [National University Singapore](http://www.quantumlah.org/)
 
-####### USA
+	* USA
                                                                    
-* [Berkley](http://www.quantumlah.org/)
+		* [Berkley](http://www.quantumlah.org/)
                                                                                                                                                                                                          
 ###### Quantum Technology
 
-####### Class Based Course
+* Class Based Course
                                                                    
-####### Canada
+	* Canada
                                                                    
-* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
+		* [uwaterloo](https://uwaterloo.ca/institute-for-quantum-computing/)
 
-####### Singapore
+	* Singapore
                                                                    
-* [National University Singapore](http://www.quantumlah.org/)
+		* [National University Singapore](http://www.quantumlah.org/)
 
-####### Europe
+	* Europe
                                                                    
-* [Munich](http://www.munich-quantum-center.de/index.php?id=1)
+		* [Munich](http://www.munich-quantum-center.de/index.php?id=1)
                                                                    
                                                                    
 ###### Quantum Information Science
 
-####### External Links
+* External Links
 
-* [quantwiki](https://www.quantiki.org/wiki/courses-quantum-information-science)
+	* [quantwiki](https://www.quantiki.org/wiki/courses-quantum-information-science)
                                                                    
-####### Online
+* Online
 
-* [MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/) - Super Explanation and well basics
-* [edx](https://www.edx.org/course/quantum-information-science-ii-mitx-8-371x) - Nice Explanation
+	* [MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/) - Super Explanation and well basics
+	* [edx](https://www.edx.org/course/quantum-information-science-ii-mitx-8-371x) - Nice Explanation
 
-####### Class Based Course
+* Class Based Course
                                                                    
-####### USA
+	* USA
                                                                    
-* [MIT](http://qis.mit.edu/)
-* [Standford University](https://web.stanford.edu/group/yamamotogroup/)
+		* [MIT](http://qis.mit.edu/)
+		* [Standford University](https://web.stanford.edu/group/yamamotogroup/)
 
-####### Singapore
+	* Singapore
                                                                    
-* [National University Singapore](http://www.quantumlah.org/)
+		* [National University Singapore](http://www.quantumlah.org/)
 
-####### Europe
+	* Europe
                                                                    
-* [ULB Belgium](http://quic.ulb.ac.be/teaching)
+		* [ULB Belgium](http://quic.ulb.ac.be/teaching)
                                                                    
                                                                                                                                       
 ###### Quantum Electronics
 
-####### External Links
+* External Links
 
                                                                    
-####### Online
+* Online
 
 
-####### Class Based Course
+* Class Based Course
+                                                                                                                                      
+    * USA
                                                                    
+		* [Texas](http://www.ece.utexas.edu/research/areas/plasma-quantum-electronics-and-optics)                                                               
+    
+	* Europe
                                                                    
-####### Asia
+		* [Zurich](http://www.iqe.phys.ethz.ch/utils/contact.html)                                                               
                                                                    
-* [Tata Institute](http://www.tifr.res.in/~quantro/index.html)
+	* Asia
+                                                                   
+		* [Tata Institute](http://www.tifr.res.in/~quantro/index.html)
                                                 
-                                                                   
+                                                                  
 ### License
 
 [![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
