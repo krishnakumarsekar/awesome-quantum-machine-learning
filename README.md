@@ -626,7 +626,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     
 	* Europe
                                                                    
-		* [Zurich](http://www.iqe.phys.ethz.ch/utils/contact.html)                                                               
+		* [Zurich](http://www.iqe.phys.ethz.ch/utils/contact.html)
+        * [ICFO](http://quantumtech.icfo.eu/)                                                           
                                                                    
 	* Asia
                                                                    
