@@ -599,6 +599,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 		* [MIT](http://qis.mit.edu/)
 		* [Standford University](https://web.stanford.edu/group/yamamotogroup/)
+       	* [Joint Center for Quantum Information and Computer Science - University of Maryland](http://quics.umd.edu/)
                                                                    
 	* Canada
                                                                    
@@ -659,6 +660,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 	* USA
 
 		* [Oxford](https://www.cs.ox.ac.uk/teaching/courses/quantum/)
+        * [Joint Center for Quantum Information and Computer Science - University of Maryland](http://quics.umd.edu/)
                                                                    
 ###### Quantum Artificial Intelligence and Machine Learning
 
@@ -666,7 +668,22 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 	* [Quora 1](https://www.quora.com/Quantum-Computing-vs-Artificial-Intelligence-for-a-PhD)
     * [Quora 1](https://www.quora.com/Where-can-you-get-a-PhD-in-quantum-machine-learning)
-                                                                                                                                                                                                                                                                           	                                                                                                                 
+                                                                   
+###### Quantum Mathematics
+
+* Class Based Course
+                                                                   
+	* USA
+
+		* [University of Notre Damn](http://acms.nd.edu/research/)
+
+
+<a name="quantumconsolidatedresearchpapers"></a>
+## CONSOLIDATED Quantum Research Papers
+
+* [scirate](https://scirate.com/) - Plenty of Quantum Research Papers Available
+                                                                   
+
 ### License
 
 [![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
