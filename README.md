@@ -494,6 +494,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 	* [Standford university](http://online.stanford.edu/course/qmse01-quantum-mechanics-scientists-and-engineers) - Nice Preparatory Course
 	* [edx](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/info) - Quantum Mechanics for Everyone
+    * [NPTEL 1](http://nptel.ac.in/courses/115104096/) - Nice Series of Courses to understand basics and backbone of quantum mechanics
+    * [NPTEL 2](http://nptel.ac.in/courses/115102023/)
+    * [NPTEL 3](http://nptel.ac.in/courses/115106066/)
+    * [NPTEL 4](http://nptel.ac.in/courses/115108074/)
+   	* [NPTEL 5](http://nptel.ac.in/courses/115101010/)
                                                                    
 * Class Based Course
                                                                    
@@ -514,6 +519,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * Online
 
 	* [MIT](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2013/lecture-videos/) - Super Explanation and well basics
+    * [NPTEL](http://nptel.ac.in/courses/122106034/) - Nice Series of Courses to understand basics and backbone of quantum Physics
 
 * Class Based Course
                                                                    
@@ -522,6 +528,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 		* [University of Copenhagen](http://www.nbi.ku.dk/english/research/quantum-physics/)
                                                                    
 ###### Quantum Chemistry
+
+* Online
+
+    * [NPTEL 1](http://nptel.ac.in/courses/104108057/) - Nice Series of Courses to understand basics and backbone of quantum Chemistry
+    * [NPTEL 2](http://nptel.ac.in/courses/104106083/) - 
 
 * Class Based Course
                                                                    
@@ -535,6 +546,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 	* [MIT](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm) - Super Explanation and well basics
 	* [edx](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Nice Explanation
+    * [NPTEL](http://nptel.ac.in/courses/104104082/) - Nice Series of Courses to understand basics and backbone of quantum Computing
 
 * Class Based Course
                                                                    
@@ -577,6 +589,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 	* [MIT](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/) - Super Explanation and well basics
 	* [edx](https://www.edx.org/course/quantum-information-science-ii-mitx-8-371x) - Nice Explanation
+    * [NPTEL](http://nptel.ac.in/courses/115101092/) - Nice Series of Courses to understand basics and backbone of quantum information and computing
 
 * Class Based Course
                                                                    
@@ -584,6 +597,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 		* [MIT](http://qis.mit.edu/)
 		* [Standford University](https://web.stanford.edu/group/yamamotogroup/)
+                                                                   
+	* Canada
+                                                                   
+		* [Perimeter Institute](https://perimeterinstitute.ca/research/research-areas/quantum-information)
 
 	* Singapore
                                                                    
@@ -595,12 +612,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
                                                                                                                                       
 ###### Quantum Electronics
-
-* External Links
-
                                                                    
 * Online
 
+    * [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-974-fundamentals-of-photonics-quantum-electronics-spring-2006/) - Wonderful Course
+    * [NPTEL](http://nptel.ac.in/courses/115102022/) - Nice Series of Courses to understand basics and backbone of quantum Electronics
 
 * Class Based Course
                                                                                                                                       
@@ -615,8 +631,39 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 	* Asia
                                                                    
 		* [Tata Institute](http://www.tifr.res.in/~quantro/index.html)
-                                                
-                                                                  
+                                                                   
+###### Quantum Field Theory
+
+* Online
+                                                                   
+	* [Standford university](https://ocw.mit.edu/courses/physics/8-323-relativistic-quantum-field-theory-i-spring-2008/) - Nice Preparatory Course
+    * [edx](https://www.edx.org/course/effective-field-theory-mitx-8-eftx) - Some QFT Concepts available
+                                                                   
+* Class Based Course
+                                                                   
+	* UK
+
+		* [Imperial](http://www.imperial.ac.uk/theoretical-physics/postgraduate-study/msc-in-quantum-fields-and-fundamental-forces/)
+                                                                                                                                      
+	* Europe
+                                                                   
+		* [Vrije](http://www.vub.ac.be/en/study/fiches/56659/quantum-field-theory)
+                                                                 
+###### Quantum Computer Science
+                                                                   
+* Class Based Course
+                                                                   
+	* USA
+
+		* [Oxford](https://www.cs.ox.ac.uk/teaching/courses/quantum/)
+                                                                   
+###### Quantum Artificial Intelligence and Machine Learning
+
+* External Links
+
+	* [Quora 1](https://www.quora.com/Quantum-Computing-vs-Artificial-Intelligence-for-a-PhD)
+    * [Quora 1](https://www.quora.com/Where-can-you-get-a-PhD-in-quantum-machine-learning)
+                                                                                                                                                                                                                                                                           	                                                                                                                 
 ### License
 
 [![License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/LICENCE)
