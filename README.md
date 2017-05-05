@@ -2,6 +2,8 @@
 
 A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
 
+[![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
