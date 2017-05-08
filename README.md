@@ -527,6 +527,19 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Meetup 7](https://www.meetup.com/Quantum-Computers/) - Quantum Computing Mountain View California
 * [Meetup 8](https://www.meetup.com/nyhackr/) - Statistical Analysis New York
 * [Meetup 9](https://www.meetup.com/Quantum-Physics-Meetup-Group/) - Quantum Mechanics London UK
+* [Meetup 10](https://www.meetup.com/Quantum-Physics-Drinks/) - Quantum Physics Sydney Australia
+* [Meetup 11](https://www.meetup.com/Berkeley-Quantum-Physics-Spirituality-Meetup/) - Quantum Physics Berkeley CA
+* [Meetup 12](https://www.meetup.com/QuantumX-Quantum-Computing-Meetup/) - Quantum Computing London UK
+* [Meetup 13](https://www.meetup.com/Carmichael-Quantum-Christians/) - Quantum Mechanics Carmichael CA
+* [Meetup 14](https://www.meetup.com/Relativity-Exploration-of-Portland/) - Maths and Science Group Portland
+* [Meetup 15](https://www.meetup.com/Quantum-Physics-Discussion-Group/) - Quantum Physics Santa Monica, CA
+* [Meetup 16](https://www.meetup.com/Quantum-Vibrational-Healing/) - Quantum Mechanics London
+* [Meetup 17](https://www.meetup.com/London-Quantum-Computing-Meetup/) - Quantum Computing London
+* [Meetup 18](https://www.meetup.com/quantum-metaphysics/) - Quantum Meta Physics ,Kansas City , Missouri ,US
+* [Meetup 19](https://www.meetup.com/Quantum-Content/) - Quantum Mechanics and Physics ,Boston ,Massachusetts ,US
+* [Meetup 20](https://www.meetup.com/Quantum-Organization/) - Quantum Physics and Mechanics ,San Francisco ,California
+* [Meetup 21](https://www.meetup.com/Theoretical-Quantum-Mechanics/) - Quantum Mechanics ,Langhorne, Pennsylvania
+* [Meetup 22](https://www.meetup.com/Portland-Science-Meetup/) - Quantum Mechanics ,Portland
 
                                                                    
 <a name="quantumdegrees"></a>
