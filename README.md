@@ -513,7 +513,22 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [IBM](https://www.rtinsights.com/ibm-quantum-computing-with-machine-learning-in-cloud/) - IBM plan to merge both
 * [IBM Project](https://www.ibm.com/blogs/research/2017/03/quantum-algorithm-classifies-9500-handwritten-numbers/) - IBM Project idea
 * [MIT and Google](https://www.technologyreview.com/s/544421/googles-quantum-dream-machine/) - Solutions for all questions
+                                                                   
 
+<a name="quantummeetups"></a>
+## QUANTUM MEETUPS
+
+* [Meetup 1](https://www.meetup.com/Quantum-Physics-Drinks/) - Quantum Physics
+* [Meetup 2](https://www.meetup.com/London-Quantum-Computing-Meetup/) - Quantum Computing London
+* [Meetup 3](https://www.meetup.com/New-York-Quantum-Computing-Meetup/) - Quantum Computing New York
+* [Meetup 4](https://www.meetup.com/Quantum-Computing-and-Big-Data/events/238749477/) - Quantum Computing Canada
+* [Meetup 5](https://www.meetup.com/Austin-Quantum-Computing-Artificial-Intelligence-Meetup/) - Quantum Artificial Intelligence Texas
+* [Meetup 6](https://www.meetup.com/The-NY-Quantum-Theory-Group/) - Genarl Quantum Mechanics , Mathematics New York
+* [Meetup 7](https://www.meetup.com/Quantum-Computers/) - Quantum Computing Mountain View California
+* [Meetup 8](https://www.meetup.com/nyhackr/) - Statistical Analysis New York
+* [Meetup 9](https://www.meetup.com/Quantum-Physics-Meetup-Group/) - Quantum Mechanics London UK
+
+                                                                   
 <a name="quantumdegrees"></a>
 ## QUANTUM BASED DEGREES
 
