@@ -99,6 +99,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Tunneling](#quantumhottopics-tunneling)
     - [Quantum Entanglment](#quantumhottopics-entanglment)
    	- [Quantum Eigen Spectrum](#quantumhottopics-eigenspectrum)
+    - [Quantum Dots](#quantumhottopics-dots)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -458,6 +459,25 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ## QAUNTUM NEURAL NETWORK
                                                                    
 [![QNN 1](https://silky.github.io/images/transition-to-quantum-nn.png)](https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html)
+
+##### one line : Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processess ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity
+
+<a name="qnn-perceptron"></a>
+#### Quantum perceptrons
+                 
+##### info : Perceptron(layer) is the basic unit in Neural Network ,The quantum version of perceptron must satisfy both linear and non linear problems , Quantum Concepts is combination of linear(calculus of superposition) and nonlinear(State approximation using probability) ,To make a perceptron in quantum world ,Transformation(activation function) of non linearity to certain limit is needed ,which is carrying by phase estimation algorithm
+  
+[![Quantum Perceptron 1](https://image.slidesharecdn.com/quantumcomputing-150122163158-conversion-gate01/95/quantum-computing-31-638.jpg?cb=1421944504)](https://en.wikipedia.org/wiki/Activation_function)                                                                   
+[![Quantum Perceptron 2](https://www.nature.com/article-assets/npg/srep/2014/140107/srep03589/images/m685/srep03589-f2.jpg)](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm)                                                                   
+[![Quantum Perceptron 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3I5VAXUuU60tWeE9vKV-n59AbupbCcVWxPRCOPaM1i1zT03QsrQ)]()
+[![Quantum Perceptron 4](https://www.omicsonline.org/articles-images/0976-4860-5-128-g001.gif)](https://www.omicsonline.org/open-access/quantum-neural-network-based-parts-of-speech-tagger-for-hindi-0976-4860-5-137-152.pdf.php?aid=35658) 
+[![Quantum Perceptron 5](https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2015/neuralqubits.jpg)](https://www.researchgate.net/publication/231178445_Quantum_Learning_and_Quantum_Perceptrons) 
+
+* [PDF1](https://arxiv.org/pdf/quant-ph/0201144.pdf) - Good Theory                                                              
+* [PDF2](http://axon.cs.byu.edu/papers/ricks.nips03.pdf/) - Good Explanation
+* [Matlab](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python1](https://github.com/krishnakumarsekar/) - Yet to come
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come                                                                   
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
