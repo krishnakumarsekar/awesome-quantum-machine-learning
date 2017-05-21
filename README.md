@@ -100,6 +100,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Entanglment](#quantumhottopics-entanglment)
    	- [Quantum Eigen Spectrum](#quantumhottopics-eigenspectrum)
     - [Quantum Dots](#quantumhottopics-dots)
+    - [Quantum elctro dynamics](#quantumhottopics-electrodynamics)
+    - [Quantum teleportation](#quantumhottopics-teleportation)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
