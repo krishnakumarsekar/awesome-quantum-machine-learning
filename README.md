@@ -79,7 +79,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Hamiltonian Neural Net](#qnn-hamiltoniannet)
     - [QANN](#qnn-qann)
     - [QPN](#qnn-qpn)
-    - [SAL](#qnn-sal)             
+    - [SAL](#qnn-sal)
+- [QAUNTUM STATISTICAL ANALYSIS](#quantumstatistics)
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
@@ -102,6 +103,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Dots](#quantumhottopics-dots)
     - [Quantum elctro dynamics](#quantumhottopics-electrodynamics)
     - [Quantum teleportation](#quantumhottopics-teleportation)
+    - [Quantum Supremacy](#quantumhottopics-supremacy)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -145,6 +147,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [external-link](http://www.huffingtonpost.com/2013/07/29/quantum-computers-ai-artificial-intelligence-studies_n_3664011.html) - MIT Review
 * [microsoft](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/) - Microsoft Quantum Related Works
 * [Google2](https://research.googleblog.com/2009/12/machine-learning-with-quantum.html) - Google Quantum Machine Learning Blog
+* [BBC](http://www.bbc.co.uk/programmes/p052800h) - About Google Quantum Supremacy,IBM Quantum Computer and Microsoft Q
                                                 
                                                 
 <a name="basics"></a>
