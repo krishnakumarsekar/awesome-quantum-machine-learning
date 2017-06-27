@@ -107,6 +107,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Polynomial Optimization](#quantumstatistics-polynomialoptimization)
     - [Quadratic Unconstrained Binary Optimization](#quantumstatistics-qubo)
     - [Quantum Gradient Descent](#quantumstatistics-quantumgradientdescent)
+    - [Quantum Based Newton's Method for Constrained Optimization](#quantumstatistics-newtonmethodconstrainedoptimization)
+    - [Quantum Based Newton's Method for UnConstrained Optimization](#quantumstatistics-newtonmethodunconstrainedoptimization)
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
