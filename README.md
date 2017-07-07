@@ -821,6 +821,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * Source code of plenty of Algortihms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
 * Good Explanations of Plenty of algorithms with flow chart etc
 * Comparison Matrix of plenty of algorithms
+* Awesome Machine Learning and Deep Learning Mathematics is [online](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 
 ### Contribution
 
