@@ -143,6 +143,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Decoherence](#quantumhottopics-decoherence) 
     - [Topological Quantum Computing](#quantumhottopics-topologicalcomputing)
     - [Topological Quantum Field Theory](#quantumhottopics-topologicalfieldtheory)
+    - [Quantum Knots](#quantumhottopics-knots)
+    - [Topological Entanglment](#quantumhottopics-topologicalentanglment)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
