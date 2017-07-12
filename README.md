@@ -80,7 +80,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [QANN](#qnn-qann)
     - [QPN](#qnn-qpn)
     - [SAL](#qnn-sal)
-- [QAUNTUM STATISTICAL ANALYSIS](#quantumstatistics)
+- [QAUNTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
 	- [Quantum Probability Theory](#quantumstatistics-probabilitytheory)
     - [Kolmogorovian Theory](#quantumstatistics-kolmogorovian)
     - [Quantum Measurement Problem](#quantumstatistics-measurementproblem)
@@ -112,6 +112,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Ensemble](#quantumstatistics-quantumensemble)
     - [Quantum Topology](#quantumstatistics-quantumtopology)
     - [Quantum Topological Data Analysis](#quantumstatistics-quantumtopologicaldataanalysis)
+    - [Quantum Bayesian Hypothesis](#quantumstatistics-quantumbayesianhypothesis)
+    - [Quantum Statistical Decision Theory](#quantumstatistics-quantumstatisticaldecisiontheory)
+    - [Quantum Minimax Theorem](#quantumstatistics-quantumminimaxtheorem)
+    - [Quantum Hunt-Stein Theorem](#quantumstatistics-quantumhuntsteintheorem)
+    - [Quantum Locally Asymptotic Normality](#quantumstatistics-quantumlocalasymptoticnormality)
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
@@ -523,7 +528,20 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [PDF2](http://axon.cs.byu.edu/papers/ricks.nips03.pdf/) - Good Explanation
 * [Matlab](https://github.com/krishnakumarsekar/) - Yet to come
 * [Python1](https://github.com/krishnakumarsekar/) - Yet to come
-* [Python2](https://github.com/krishnakumarsekar/) - Yet to come                                                                   
+* [Python2](https://github.com/krishnakumarsekar/) - Yet to come
+                                                        
+<a name="quantumstatistics"></a>
+## QAUNTUM STATISTICAL DATA ANALYSIS
+                                                                   
+[![quantumstatistics1](https://image.slidesharecdn.com/slide2014rims1031public-141101055906-conversion-gate02/95/quantum-minimax-theorem-in-statistical-decision-theory-rims2014-29-638.jpg?cb=1414822200)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+[![quantumstatistics2](https://image.slidesharecdn.com/slide2014rims1031public-141101055906-conversion-gate02/95/quantum-minimax-theorem-in-statistical-decision-theory-rims2014-36-638.jpg?cb=1414822200)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+[![quantumstatistics3](https://image.slidesharecdn.com/slide2014rims1031public-141101055906-conversion-gate02/95/quantum-minimax-theorem-in-statistical-decision-theory-rims2014-10-638.jpg?cb=1414822200)](https://www.slideshare.net/tanafuyu/slide-2014-rims1031public)
+[![quantumstatistics4](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/download.png?raw=true)](https://arxiv.org/pdf/0802.1296.pdf)
+[![quantumstatistics5](https://image.slidesharecdn.com/guelph200609-090408123316-phpapp02/95/quantum-dynamics-as-generalized-conditional-probabilities-2-728.jpg?cb=1239194048)](https://www.slideshare.net/mleifer/quantum-dynamics-as-generalized-conditional-probabilities)
+[![quantumstatistics6]( https://image.slidesharecdn.com/guelph200609-090408123316-phpapp02/95/quantum-dynamics-as-generalized-conditional-probabilities-4-728.jpg?cb=1239194048)](https://www.slideshare.net/mleifer/conditional-density-operators-in-quantum-information)                                                                                                               
+
+##### one line : An under research concept ,It can be seen in multiple ways, one best way if you want to apply n derivative for a problem in current classical theory its difficult to compute as its serialization problem instead if you do parallelization of differentiation you must estimate via probability the value in all flows ,Quantum Probability Helps to achieve this ,as the loss calculation is very less . the other way comparatively booming is Quantum Bayesianism, its a solution to solve most of the uncertainity problem in statistics to combine time and space in highly advanced physical research 
+
                                                                    
 <a name="qpl"></a>
 ## QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES
