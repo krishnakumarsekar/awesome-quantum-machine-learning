@@ -842,6 +842,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * Good Explanations of Plenty of algorithms with flow chart etc
 * Comparison Matrix of plenty of algorithms
 * Awesome Machine Learning and Deep Learning Mathematics is [online](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
+* Published Basic Presentation of the series Quantum Machine Learning
+[![PPT Basics](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/1sqQu3LhX97OIwIEEvDMpzQRh6x52C9XDs1RkbPBM9uM/present)
 
 ### Contribution
 
