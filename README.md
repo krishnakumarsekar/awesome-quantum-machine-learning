@@ -117,6 +117,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Minimax Theorem](#quantumstatistics-quantumminimaxtheorem)
     - [Quantum Hunt-Stein Theorem](#quantumstatistics-quantumhuntsteintheorem)
     - [Quantum Locally Asymptotic Normality](#quantumstatistics-quantumlocalasymptoticnormality)
+    - [Quantum Ising Model](#quantumstatistics-isingmodel)
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
