@@ -161,6 +161,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Boson Sampling](#quantumhottopics-bosonsampling)
     - [Quantum Convolutional Code](#quantumhottopics-convolutionalcode)
     - [Stabilizer Code](#quantumhottopics-stabilizercode)
+    - [Quantum Chaos](#quantumhottopics-chaos)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
