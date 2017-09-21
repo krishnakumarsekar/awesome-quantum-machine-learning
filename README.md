@@ -127,6 +127,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Bootstrap Aggregation](#quantumstatistics-bootstrapaggregation)
     - [Quantum Decision Tree Classifier](#quantumstatistics-decisiontreeclassifier)
     - [Quantum Outlier Detection](#quantumstatistics-outlierdetection)
+    - [Cholesky-Decomposition for Quantum Chemistry](#quantumstatistics-choleskydecomposition)                                                    
 - [QUANTUM PROGRAMMING LANGUAGES , TOOLs and SOFTWARES](#qpl)
     - [ALL](#qpl-all)
 - [QUANTUM ALGORITHMS SOURCE CODES , GITHUBS](#quantumsourcecode)
@@ -165,6 +166,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Stabilizer Code](#quantumhottopics-stabilizercode)
     - [Quantum Chaos](#quantumhottopics-chaos)
     - [Quantum Game Theory](#quantumhottopics-quantumgametheory)
+    - [Quantum Channel](#quantumhottopics-quantumchannel)
+    - [Tensor Space Theory](#quantumhottopics-tensorspacetheory)
+    - [Quantum Leap](#quantumhottopics-quantumleap)
+    - [Quantum Mechanics for Time Travel](#quantumhottopics-quantumtimetravel)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -570,7 +575,18 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Software](https://www.quantiki.org/wiki/list-qc-simulators) - Nice content of all
 * [Python library](http://qutip.org/) - A python library
 * [Matlab based python library](https://pypi.python.org/pypi/qit) - Matlab Python Library
-* [Quantum Tensor Network Github](https://github.com/emstoudenmire/TNML) - Tensor Network 
+* [Quantum Tensor Network Github](https://github.com/emstoudenmire/TNML) - Tensor Network
+* [Bayesforge](http://bayesforge.com/) - A Beautiful Amazon Web Service Enabled Framework for Quantum Alogorithms and Data Analytics
+* [Rigetti](https://github.com/rigetticomputing) - A best tools repository to use quantum computer in real time
+* [Rigetti Forest](http://www.rigetti.com/index.php/forest) - An API to connect Quantum Computer
+* [quil/pyQuil](http://pyquil.readthedocs.io/en/latest/overview.html) - A quantum instruction language to use forest framework
+* [Grove](https://github.com/rigetticomputing/grove) - Grove is a repository to showcase quantum Fourier transform, phase estimation, the quantum approximate optimization algorithm, and others developed using Forest
+* [QISKit](https://github.com/QISKit) - A IBM Kit to access quantum computer and mainly for quantum circuits
+* [IBM Bluemix Simulator](https://quantumexperience.ng.bluemix.net/qx/editor) - A Bluemix Simulator for Quantum Circuits
+* [qiskit api python](https://github.com/QISKit/qiskit-api-py) - An API to connect IBM Quantum Computer ,With the generated token its easy to connect ,but very limited utils ,Lot of new utils will come soon 
+* [Cyclops Tensor Framework](http://solomon2.web.engr.illinois.edu/ctf/) - A framework to do tensor network simulations
+* [Python ToolKit for chemistry and physics Quantum Algorithm simulations](https://github.com/qmlcode/qml) - A New Started Project for simulating molecule and solids
+* [Bayesian Based Quatum Projects Repository](https://github.com/artiste-qb-net) - A nice repository and the kickstarter of bayesforge
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
