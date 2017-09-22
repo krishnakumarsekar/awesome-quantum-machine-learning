@@ -170,6 +170,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Tensor Space Theory](#quantumhottopics-tensorspacetheory)
     - [Quantum Leap](#quantumhottopics-quantumleap)
     - [Quantum Mechanics for Time Travel](#quantumhottopics-quantumtimetravel)
+    - [Quantum Secured Block Chain](#quantumhottopics-quantumblockchain)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
