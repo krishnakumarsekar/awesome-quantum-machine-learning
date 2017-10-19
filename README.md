@@ -144,6 +144,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Central Limit Theorem](#quantumstatistics-quantumcentrallimittheorem)
     - [Quantum Hypothesis Testing](#quantumstatistics-quantumhypothesistesting)
     - [Quantum Chi-squared and Goodness of Fit Testing](#quantumstatistics-quantumchisquared)
+   	- [Quantum Estimation Theory](#quantumstatistics-quantumestimationtheory)
 - [QAUNTUM ARTIFICIAL INTELLIGENCE](#quantumai)
 	- [Heuristic Quantum Mechanics](#quantumai-heuristicmechanics)
     - [Consistent Quantum Reasoning](#quantumai-quantumreasoning)
