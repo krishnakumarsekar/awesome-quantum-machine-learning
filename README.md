@@ -72,7 +72,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Cellular Automata](#quantumalgorithmsml-caautomata)
     - [Quantum Classification using Principle Component Analysis](#quantumalgorithmsml-pca)
     - [Quantum Inspired Evolutionary Algorithm](#quantumalgorithmsml-evolutionary)
-    - [Quantum Approximate Optimization Algorithm](#quantumalgorithmsml-qaoa) 
+    - [Quantum Approximate Optimization Algorithm](#quantumalgorithmsml-qaoa)
+    - [Quantum Elephant Herding Optimization](#quantumalgorithmsml-qeho)
+    - [Quantum-behaved Particle Swarm Optimization](#quantumalgorithmsml-qpso)
+    - [Quantum Annealing Expectation-Maximization](#quantumalgorithmsml-qaem)
 - [QAUNTUM NEURAL NETWORK](#qnn)
     - [Quantum perceptrons](#qnn-perceptron)
     - [Qurons](#qnn-qurons)
@@ -135,7 +138,12 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Outlier Detection](#quantumstatistics-outlierdetection)
     - [Cholesky-Decomposition for Quantum Chemistry](#quantumstatistics-choleskydecomposition)
     - [Quantum Statistical Inference](#quantumstatistics-quantumstatisticalinference)
-    - [Asymptotic Quantum Statistical Inference](#quantumstatistics-quantumstatisticalinferenceasymptotic)                                                        
+    - [Asymptotic Quantum Statistical Inference](#quantumstatistics-quantumstatisticalinferenceasymptotic)
+    - [Quantum Gaussian Mixture Modal](#quantumstatistics-qgmm)
+    - [Quantum t-design](#quantumstatistics-quantumtdesign)
+    - [Quantum Central Limit Theorem](#quantumstatistics-quantumcentrallimittheorem)
+    - [Quantum Hypothesis Testing](#quantumstatistics-quantumhypothesistesting)
+    - [Quantum Chi-squared and Goodness of Fit Testing](#quantumstatistics-quantumchisquared)
 - [QAUNTUM ARTIFICIAL INTELLIGENCE](#quantumai)
 	- [Heuristic Quantum Mechanics](#quantumai-heuristicmechanics)
     - [Consistent Quantum Reasoning](#quantumai-quantumreasoning)
@@ -187,6 +195,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Optical Network](#quantumhottopics-quantumopticalnetwork)
     - [Quantum Interference](#quantumhottopics-quantuminterference)
     - [Quantum Optical Network](#quantumhottopics-quantumopticalnetwork)
+    - [Quantum Operating System](#quantumhottopics-quantumoperatingsystem)
+    - [Electron Fractionalization](#quantumhottopics-electronfractionalization)
+   	- [Flip-Flop Quantum Computer](#quantumhottopics-flipflopquantumcomputer)
+    - [Quantum Information with Gaussian States](#quantumhottopics-quantuminformationgaussianstates)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -351,7 +363,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### one line : Quantum Diodes using a different idea from normal diode, A bunch of laser photons trigger the electron to spin and the quantum magnetic flux will capture the information  
 
-[![Basic Gates in Quantum Computing](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Simple_qw_laser_diode.svg/1280px-Simple_qw_laser_diode.svg.png)](https://www.nature.com/articles/ncomms12978)
+[![Diodes in Quantum Computing1](https://www.ifw-dresden.de/userfiles/groups/iin_folder/research/photonics/picture_laser_iin.jpg)](http://onlinelibrary.wiley.com/doi/10.1002/adma.201200537/abstract)
+[![Diodes in Quantum Computing2](https://www.photonics.com/images/Web/Articles/2016/7/13/LED_Blue.jpg)](https://www.nature.com/articles/ncomms12978)
+[![Diodes in Quantum Computing3](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2013/nanoscaleeng.jpg)](https://phys.org/news/2013-10-nanoscale-boosts-quantum-dot-emitting.html)
+
                                                                    
 * [YOUTUBE](https://www.youtube.com/watch?v=doyK1olswX4) - A nice video about the Quantum Diode
                                                                    
