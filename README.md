@@ -145,6 +145,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Quantum Hypothesis Testing](#quantumstatistics-quantumhypothesistesting)
     - [Quantum Chi-squared and Goodness of Fit Testing](#quantumstatistics-quantumchisquared)
    	- [Quantum Estimation Theory](#quantumstatistics-quantumestimationtheory)
+    - [Quantum Way of Linear Regression](#quantumstatistics-quantumlinearregression)
+    - [Asymptotic Properties of Quantum](#quantumstatistics-quantumasymptoticproperties)
+    - [Outlier Detection in Quantum Concepts](#quantumstatistics-quantumoutlier)
 - [QAUNTUM ARTIFICIAL INTELLIGENCE](#quantumai)
 	- [Heuristic Quantum Mechanics](#quantumai-heuristicmechanics)
     - [Consistent Quantum Reasoning](#quantumai-quantumreasoning)
@@ -200,6 +203,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Electron Fractionalization](#quantumhottopics-electronfractionalization)
    	- [Flip-Flop Quantum Computer](#quantumhottopics-flipflopquantumcomputer)
     - [Quantum Information with Gaussian States](#quantumhottopics-quantuminformationgaussianstates)
+    - [Quantum Anomaly Detection](#quantumhottopics-quantumanomalydetection)
 - [QUANTUM MACHINE LEARNING VS DEEP LEARNING](#qmlvsdl)
 - [QUANTUM MEETUPS](#quantummeetups)
 - [QUANTUM GOOGLE GROUPS](#quantumgroups)
@@ -620,6 +624,9 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Cyclops Tensor Framework](http://solomon2.web.engr.illinois.edu/ctf/) - A framework to do tensor network simulations
 * [Python ToolKit for chemistry and physics Quantum Algorithm simulations](https://github.com/qmlcode/qml) - A New Started Project for simulating molecule and solids
 * [Bayesian Based Quatum Projects Repository](https://github.com/artiste-qb-net) - A nice repository and the kickstarter of bayesforge
+* [Google Fermion Products](https://github.com/quantumlib) - A newly launched product specifivally for chemistry simulation
+* [Tree Tensor Networks](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning) - Interesting Tensor Network in Incubator
+* [Deep Tensor Neural Network](https://github.com/atomistic-machine-learning/dtnn) - Some useful information about Tensor Neural Network in Incubator
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
@@ -892,6 +899,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ## CONSOLIDATED Quantum Research Papers
 
 * [scirate](https://scirate.com/) - Plenty of Quantum Research Papers Available
+* [Peter Wittek](http://peterwittek.com/book.html) - Famous Researcher for the Quantum Machine Leanrning , Published a book in this topic
                                                                    
 
 ### License
