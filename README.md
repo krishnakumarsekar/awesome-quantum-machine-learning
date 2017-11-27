@@ -318,7 +318,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                  
 ##### one line : When a laser light collide with solid particles the electrons of the atom will get spin between the orbitary layers of the atom
 
-[![Spin](http://www.tanmoydas.com/images/spinWave.gif)](https://en.wikipedia.org/wiki/Spin_(physics))
+[![Spin](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/spinWave.gif)](https://en.wikipedia.org/wiki/Spin_(physics))
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=J3xLuZNKhlY) - A nice animation video about the basic Electron Spin 1                  
 * [YOUTUBE](https://www.youtube.com/watch?v=3k5IWlVdMbo) - A nice animation video about the basic Electron Spin 2
