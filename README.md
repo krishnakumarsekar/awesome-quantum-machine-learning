@@ -945,6 +945,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <br />
 <br />
 <br />
-Hits (Sorry to Get More Confidence and Usage)
+<br />
+<br />
+<h3 style="font-weight:bold">Hits</h3>
 
 <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://github.com/krishnakumarsekar/awesome-quantum-machine-learning&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.fabbly.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+
+(Sorry to Get More Confidence and Usage)
