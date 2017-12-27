@@ -259,6 +259,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [NASA](https://ti.arc.nasa.gov/tech/dash/physics/quail/) - NASA Quantum Works
 * [Youtube](https://www.youtube.com/watch?v=CMdHDHEuOUE) - Google Video of a Quantum Processor
 * [external-link](http://www.huffingtonpost.com/2013/07/29/quantum-computers-ai-artificial-intelligence-studies_n_3664011.html) - MIT Review
+* [microsoft new product](https://www.microsoft.com/en-us/quantum) - Newly Launched Microsoft Quantum Language and Development Kit
 * [microsoft](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/) - Microsoft Quantum Related Works
 * [Google2](https://research.googleblog.com/2009/12/machine-learning-with-quantum.html) - Google Quantum Machine Learning Blog
 * [BBC](http://www.bbc.co.uk/programmes/p052800h) - About Google Quantum Supremacy,IBM Quantum Computer and Microsoft Q
@@ -634,6 +635,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Grove](https://github.com/rigetticomputing/grove) - Grove is a repository to showcase quantum Fourier transform, phase estimation, the quantum approximate optimization algorithm, and others developed using Forest
 * [QISKit](https://github.com/QISKit) - A IBM Kit to access quantum computer and mainly for quantum circuits
 * [IBM Bluemix Simulator](https://quantumexperience.ng.bluemix.net/qx/editor) - A Bluemix Simulator for Quantum Circuits
+* [Microsoft Quantum Development Kit](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit) - Microsoft Visual Studio Enbaled Kit for Quantum Circuit Creation
+* [Microsoft "Q#"](https://docs.microsoft.com/en-us/quantum/quantum-WriteAQuantumProgram?view=qsharp-preview) - Microsoft Q Sharp a new Programming Language for Quantum Circuit Creation
 * [qiskit api python](https://github.com/QISKit/qiskit-api-py) - An API to connect IBM Quantum Computer ,With the generated token its easy to connect ,but very limited utils ,Lot of new utils will come soon 
 * [Cyclops Tensor Framework](http://solomon2.web.engr.illinois.edu/ctf/) - A framework to do tensor network simulations
 * [Python ToolKit for chemistry and physics Quantum Algorithm simulations](https://github.com/qmlcode/qml) - A New Started Project for simulating molecule and solids
@@ -927,6 +930,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * Source code of plenty of Algortihms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
 * Good Explanations of Plenty of algorithms with flow chart etc
 * Comparison Matrix of plenty of algorithms
+* [Is Quantum Machine Learning Will Reveal the Secret Maths behind Astrology?](https://medium.com/@krishnakumar070891/is-quantum-machine-learning-will-reveal-the-secret-maths-behind-astrology-ce69fd71a019)
 * Awesome Machine Learning and Deep Learning Mathematics is [online](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 * Published Basic Presentation of the series Quantum Machine Learning
 [![PPT Basics](https://image.slidesharecdn.com/quantummachinelearningbasics-170716201841/95/quantum-machine-learning-basics-1-638.jpg?cb=1500236565)](https://docs.google.com/presentation/d/1sqQu3LhX97OIwIEEvDMpzQRh6x52C9XDs1RkbPBM9uM/present)
@@ -935,20 +939,3 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 ### Contribution
 
 <a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200"></a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<h3 style="font-weight:bold">Hits</h3>
-
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://github.com/krishnakumarsekar/awesome-quantum-machine-learning&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.fabbly.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
-
-(Sorry to Get More Confidence and Usage)
