@@ -204,6 +204,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
    	- [Flip-Flop Quantum Computer](#quantumhottopics-flipflopquantumcomputer)
     - [Quantum Information with Gaussian States](#quantumhottopics-quantuminformationgaussianstates)
     - [Quantum Anomaly Detection](#quantumhottopics-quantumanomalydetection)
+   	- [Distributed Secure Quantum Machine Learning](#quantumhottopics-distributedsecureqml)
+    - [Decentralized Quantum Machine Learning](#quantumhottopics-decentralizedqml)
 - [QUANTUM STATE PREPARATION ALGORITHM FOR MACHINE LEARNING](#quantumstatepreparationalgorithm)
     - [Pure Quantum State](#quantumstatepreparationalgorithm-purequantumstate)
     - [Product State](#quantumstatepreparationalgorithm-productstate)
