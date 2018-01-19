@@ -646,6 +646,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Google Fermion Products](https://github.com/quantumlib) - A newly launched product specifivally for chemistry simulation
 * [Tree Tensor Networks](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning) - Interesting Tensor Network in Incubator
 * [Deep Tensor Neural Network](https://github.com/atomistic-machine-learning/dtnn) - Some useful information about Tensor Neural Network in Incubator
+* [Generative Tensorial Networks](http://gtn.ai/) - A startup to apply machine learning via tensor network for drug discovery
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
