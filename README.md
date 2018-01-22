@@ -851,6 +851,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 	* Europe
                                                                    
 		* [ULB Belgium](http://quic.ulb.ac.be/teaching)
+        * [IQOQI](https://iqoqi.at/en)
                                                                    
                                                                                                                                       
 ###### Quantum Electronics
@@ -907,6 +908,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 	* [Quora 1](https://www.quora.com/Quantum-Computing-vs-Artificial-Intelligence-for-a-PhD)
     * [Quora 1](https://www.quora.com/Where-can-you-get-a-PhD-in-quantum-machine-learning)
+    * [Artificial Agents Research for Quantum Designs](https://www.uibk.ac.at/newsroom/artificial-agent-designs-quantum-experiments.html.en)
                                                                    
 ###### Quantum Mathematics
 
