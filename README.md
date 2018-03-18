@@ -208,6 +208,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
    	- [Distributed Secure Quantum Machine Learning](#quantumhottopics-distributedsecureqml)
     - [Decentralized Quantum Machine Learning](#quantumhottopics-decentralizedqml)
     - [Artificial Agents for Quantum Designs](#quantumhottopics-artificialagents)
+    - [Light Based Quantum Chips for AI Training](#quantumhottopics-quantumlightchipsai)
 - [QUANTUM STATE PREPARATION ALGORITHM FOR MACHINE LEARNING](#quantumstatepreparationalgorithm)
     - [Pure Quantum State](#quantumstatepreparationalgorithm-purequantumstate)
     - [Product State](#quantumstatepreparationalgorithm-productstate)
@@ -232,6 +233,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 - [CONSOLIDATED QUANTUM ML VIDEOS](#quantumconsolidatedvideos)
 - [CONSOLIDATED QUANTUM ML Reserach Papers](#quantumconsolidatedresearchpapers)
 - [CONSOLIDATED QUANTUM ML Reserach Scientist](#quantumconsolidatedresearchscientist)
+- [RECENT QUANTUM UPDATES FORUM ,PAGES AND NEWSLETTER](#quantumforumsnewsletter)
                                                                    
 
 <!-- /MarkdownTOC -->
@@ -649,6 +651,11 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Tree Tensor Networks](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning) - Interesting Tensor Network in Incubator
 * [Deep Tensor Neural Network](https://github.com/atomistic-machine-learning/dtnn) - Some useful information about Tensor Neural Network in Incubator
 * [Generative Tensorial Networks](http://gtn.ai/) - A startup to apply machine learning via tensor network for drug discovery
+* [Google Bristlecone](https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html) - A new Quantum Processor from Google , Aimed for Future Hardwares with full fledged AI support
+* [XANADU](https://www.xanadu.ai/) - A Light based Quantum Hardware(chips supports) and Software Company Started in Preparation Stage.  Soon will be in market
+* [fathom computing](https://www.fathomcomputing.com/) -  A new concept to train the ai in a processor using light and quantum based concepts. soon products will be launch
+* [Alibaba Quantum Computing Cloud Service](https://www.alibabacloud.com/press-room/alibaba-cloud-and-cas-launch-one-of-the-worlds-most) -  Cloud Service to access 11 Bit Quantum Computing Processor
+* [Atomistic Machine Learning Project](https://github.com/atomistic-machine-learning) - Seems something Interesting with Deep Tensor Network for Quantum Chemistry Applications
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
@@ -802,6 +809,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 	* USA
                                                                    
 		* [Berkley](http://www.quantumlah.org/)
+                                                        
+    * China
+        
+        * [Baidu](https://medium.com/@Synced/baidu-launches-institute-of-quantum-computing-899454cbe1c5)
                                                                                                                                                                                                          
 ###### Quantum Technology
 
@@ -818,6 +829,10 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 	* Europe
                                                                    
 		* [Munich](http://www.munich-quantum-center.de/index.php?id=1)
+                                                        
+    * Russia
+        
+        * [Skoltech](http://crei.skoltech.ru/cpqm)
                                                                    
                                                                    
 ###### Quantum Information Science
@@ -924,7 +939,13 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 * [scirate](https://scirate.com/) - Plenty of Quantum Research Papers Available
 * [Peter Wittek](http://peterwittek.com/book.html) - Famous Researcher for the Quantum Machine Leanrning , Published a book in this topic
-                                                                   
+
+<a name="quantumconsolidatedresearchpapers"></a>
+## Recent Quantum Updates forum ,pages and newsletter
+
+* [Quantum-Tech](https://medium.com/quantum-tech) - A Beautiful Newsletter Page Publishing Amazing Links 
+* [facebook Quantum Machine Learning](https://www.facebook.com/quantummachinelearning) - Running By me . Not that much good :). You can get some ideas
+* [Linkedlin Quantum Machine Learning](https://www.linkedin.com/groups/8592758) - A nice page running by experts. Can get plenty of ideas
 
 ### License
 
