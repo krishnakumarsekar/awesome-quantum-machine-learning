@@ -946,6 +946,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Quantum-Tech](https://medium.com/quantum-tech) - A Beautiful Newsletter Page Publishing Amazing Links 
 * [facebook Quantum Machine Learning](https://www.facebook.com/quantummachinelearning) - Running By me . Not that much good :). You can get some ideas
 * [Linkedlin Quantum Machine Learning](https://www.linkedin.com/groups/8592758) - A nice page running by experts. Can get plenty of ideas
+* [FOSDEM 2019 Quantum Talks](https://fosdem.org/2019/schedule/track/quantum_computing/) - A one day talk in fosdem 2019 with more than 10 research topics,tools and ideas
 
 ### License
 
@@ -966,4 +967,5 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 ### Contribution
 
+* If you think this page might helpful. Please help for World Education Charity or kids who wants to learn                                                        
 <a href="https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/contribution.md"><img src="http://comps.canstockphoto.com/can-stock-photo_csp23653568.jpg" align="left" height="200" width="200"></a>
