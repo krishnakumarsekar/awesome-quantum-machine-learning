@@ -666,6 +666,8 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Atomistic Machine Learning Project](https://github.com/atomistic-machine-learning) - Seems something Interesting with Deep Tensor Network for Quantum Chemistry Applications
 * [circQ and Google Works](https://ai.google/research/teams/applied-science/quantum/) - Google Top Efforts on Tools
 * [IBM Safe Cryptography on Cloud](https://www.sdxcentral.com/articles/news/ibm-drives-quantum-safe-cryptography-into-its-public-cloud/2019/08/) - IBM Started and Developing a Quantm Safe Cryptography to replace all our Certificate Authority via Cloud
+* [Google Tensor Network Open Source](https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html) - Google Started the Most Scientist Preferred Way To Use a Quantum Computer Circuit. Tensor Flow Which Makes Easy to Design the Network and Will Leave the Work Effect Of Gates, Processor Preparation and also going to tell the beauty of Maths
+* [Google Tensor Network Github](https://github.com/google/TensorNetwork) - Github Project of Google Tensor Network
 * [Quantum Tensorflow](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Spark](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quatum Map Reduce](https://github.com/krishnakumarsekar/) - Yet to come soon
