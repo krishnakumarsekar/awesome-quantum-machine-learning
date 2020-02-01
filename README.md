@@ -960,6 +960,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [facebook Quantum Machine Learning](https://www.facebook.com/quantummachinelearning) - Running By me . Not that much good :). You can get some ideas
 * [Linkedlin Quantum Machine Learning](https://www.linkedin.com/groups/8592758) - A nice page running by experts. Can get plenty of ideas
 * [FOSDEM 2019 Quantum Talks](https://fosdem.org/2019/schedule/track/quantum_computing/) - A one day talk in fosdem 2019 with more than 10 research topics,tools and ideas
+* [FOSDEM 2020 Quantum Talks](https://fosdem.org/2020/schedule/track/quantum_computing/) - Live talk in fosdem 2020 with plenty new research topics,tools and ideas
 
 ### License
 
