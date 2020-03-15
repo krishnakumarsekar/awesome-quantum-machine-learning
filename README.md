@@ -175,7 +175,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [Hamiltonian Time Based Quantum Computing](#quantumhottopics-hamiltoniancomputing)
     - [Deep Quantum Learning](#quantumhottopics-deepquantumlearning)
     - [Quantum Tunneling](#quantumhottopics-tunneling)
-    - [Quantum Entanglment](#quantumhottopics-entanglment)
+    - [Quantum Entanglement](#quantumhottopics-entanglment)
    	- [Quantum Eigen Spectrum](#quantumhottopics-eigenspectrum)
     - [Quantum Dots](#quantumhottopics-dots)
     - [Quantum elctro dynamics](#quantumhottopics-electrodynamics)
@@ -289,7 +289,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 * [WIKIPEDIA](https://en.wikipedia.org/wiki/Quantum_mechanics) - Basic History and outline
 * [LIVESCIENCE](http://www.livescience.com/33816-quantum-mechanics-explanation.html). - A survey
-* [YOUTUBE](https://www.youtube.com/watch?v=7u_UQG1La1o) - Simple Animation Video Explanining Great.
+* [YOUTUBE](https://www.youtube.com/watch?v=7u_UQG1La1o) - Simple Animation Video Explaining Great.
 
 <a name="basics-what-quantum-computing"></a>
 #### What is Quantum Computing?                 
@@ -312,7 +312,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-atom-structure"></a>
 #### Atom Structure
                  
-##### one line : Electron Orbiting around the nucleous in an eliptical format
+##### one line : Electron Orbiting around the nucleus in an elliptical format
  
 * [YOUTUBE](https://www.youtube.com/watch?v=g_IaVepNDT4) - A nice animation video about the basic atom structure                   
 
@@ -321,7 +321,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-photon-wave"></a>
 #### Photon Wave
                  
-##### one line : Light nornmally called as wave transmitted as photons as similar as atoms in solid particles
+##### one line : Light normally called as wave transmitted as photons as similar as atoms in solid particles
                  
 * [YOUTUBE](https://www.youtube.com/watch?v=fwXQjRBLwsQ) - A nice animation video about the basic photon 1                  
 * [YOUTUBE](https://www.youtube.com/watch?v=KKr91v7yLcM) - A nice animation video about the basic photon 2
@@ -331,7 +331,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-elecfluctuation-spin"></a>
 #### Electron Fluctuation or spin
                  
-##### one line : When a laser light collide with solid particles the electrons of the atom will get spin between the orbitary layers of the atom
+##### one line : When a laser light collide with solid particles the electrons of the atom will get spin between the orbital layers of the atom
 
 [![Spin](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/spinWave.gif)](https://en.wikipedia.org/wiki/Spin_(physics))
                  
@@ -419,7 +419,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-processor"></a>
 #### Quantum Processor
                  
-##### one line : A nano integration circuit performing the quantum gates operation sorrounded by cooling units to reduce the tremendous amount of heat 
+##### one line : A nano integration circuit performing the quantum gates operation surrounded by cooling units to reduce the tremendous amount of heat 
 
 [![Quantum Processor1](https://www.dwavesys.com/sites/default/files/cooling-082015%20copy.png)](https://www.dwavesys.com/tutorials/background-reading-series/introduction-d-wave-quantum-hardware#h2-0)
 [![Quantum Processor2](https://www.photonics.com/images/Web/Articles/2014/6/5/Quantum_Circuit.png)](https://quantumexperience.ng.bluemix.net/qstage/?cm_mc_uid=36641337812614766932472&cm_mc_sid_50200000=1493295650#/user-guide)
@@ -430,7 +430,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumcomputing-qram"></a>
 #### Quantum Registery QRAM
                  
-##### one line : Comapring the normal ram ,its ultrafast and very small in size ,the address location can be access using qubits superposition value ,for a very large memory set coherent superposition(address of address) be used
+##### one line : Comparing the normal ram ,its ultrafast and very small in size ,the address location can be access using qubits superposition value ,for a very large memory set coherent superposition(address of address) be used
 
 [![QRAM1](https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/94d487c6ef4d0fa5594eff352aac19e2bfd47ffa/2-Figure1-1.png)](https://arxiv.org/pdf/0708.1879.pdf)
 [![QRAM2](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/QRAM.png)](https://www.researchgate.net/publication/51394884_Quantum_Random_Access_Memory)
@@ -469,7 +469,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="qcmlbridge-tensors-network"></a>
 #### Tensors Network
                  
-##### one line : As like connecting multiple vectors ,multple tensors form a network ,solving such a network reduce the complexity of processing qubits
+##### one line : As like connecting multiple vectors, multiple tensors form a network ,solving such a network reduce the complexity of processing qubits
 
 [![Tensors Network1](http://www.cse.unsw.edu.au/~billw/cs9444/tensor-stuff/tensor-intro-0418.gif)](https://arxiv.org/pdf/1306.2164.pdf)
 [![Tensors Network2](http://www.quantuminfo.physik.rwth-aachen.de/global/show_picture.asp?id=aaaaaaaaaaiejix)](https://en.wikipedia.org/wiki/Tensor_network_theory)
@@ -485,7 +485,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumalgorithmsml-qknn"></a>
 #### Quantum K-Nearest Neighbour
                  
-##### info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regerssive loss can be tally using the average 
+##### info : Here the centroid(euclidean distance) can be detected using the swap gates test between two states of the qubit , As KNN is regressive loss can be tally using the average 
                                                                                                                                     
 * [PDF1 from Microsoft](https://www.microsoft.com/en-us/research/publication/quantum-nearest-neighbor-algorithms-for-machine-learning/) - Theory Explanation
 * [PDF2](https://arxiv.org/pdf/1409.3097.pdf) - A Good Material to understand the basics
@@ -537,7 +537,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Python2](https://github.com/krishnakumarsekar/) - Yet to come
                                                                    
 <a name="quantumalgorithmsml-hmm"></a>
-#### Quantum Hidden Morkov Models
+#### Quantum Hidden Markov Models
                  
 ##### info : As HMM is already state based ,Here the quantum states acts as normal for the markov chain and the shift between states is using quantum operation based on probability distribution 
   
@@ -580,7 +580,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 <a name="quantumalgorithmsml-caautomata"></a>
 #### Quantum Cellular Automata
                  
-##### info : One of the very complex algorithm with various types specifically used for polynomial equations and to design the optimistic gates for a problem, Here the lattice is formed using the quatum states and time calculation is based on the change of the state between two qubits ,Best suited for nano electronics
+##### info : One of the very complex algorithm with various types specifically used for polynomial equations and to design the optimistic gates for a problem, Here the lattice is formed using the quantum states and time calculation is based on the change of the state between two qubits ,Best suited for nano electronics
   
 [![Quantum Cellular Automata](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/ta2-color_orig%20b.jpg)]()                                                                   
                                                                    
@@ -597,7 +597,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 [![QNN 1](https://silky.github.io/images/transition-to-quantum-nn.png)](https://silky.github.io/posts/2016-12-11-quantum-neural-networks.html)
 
-##### one line : Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel procss ,QNN is doing parallel of parallel processess ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity
+##### one line : Its really one of the hardest topic , To understand easily ,Normal Neural Network is doing parallel process ,QNN is doing parallel of parallel processess ,In theory combination of various activation functions is possible in QNN ,In Normal NN more than one activation function reduce the performance and increase the complexity
 
 <a name="qnn-perceptron"></a>
 #### Quantum perceptrons
@@ -626,7 +626,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![quantumstatistics5](https://image.slidesharecdn.com/guelph200609-090408123316-phpapp02/95/quantum-dynamics-as-generalized-conditional-probabilities-2-728.jpg?cb=1239194048)](https://www.slideshare.net/mleifer/quantum-dynamics-as-generalized-conditional-probabilities)
 [![quantumstatistics6]( https://image.slidesharecdn.com/guelph200609-090408123316-phpapp02/95/quantum-dynamics-as-generalized-conditional-probabilities-4-728.jpg?cb=1239194048)](https://www.slideshare.net/mleifer/conditional-density-operators-in-quantum-information)                                                                                                               
 
-##### one line : An under research concept ,It can be seen in multiple ways, one best way if you want to apply n derivative for a problem in current classical theory its difficult to compute as its serialization problem instead if you do parallelization of differentiation you must estimate via probability the value in all flows ,Quantum Probability Helps to achieve this ,as the loss calculation is very less . the other way comparatively booming is Quantum Bayesianism, its a solution to solve most of the uncertainity problem in statistics to combine time and space in highly advanced physical research 
+##### one line : An under research concept ,It can be seen in multiple ways, one best way if you want to apply n derivative for a problem in current classical theory its difficult to compute as its serialization problem instead if you do parallelization of differentiation you must estimate via probability the value in all flows ,Quantum Probability Helps to achieve this ,as the loss calculation is very less . the other way comparatively booming is Quantum Bayesianism, its a solution to solve most of the uncertainty problem in statistics to combine time and space in highly advanced physical research 
 
                                                                    
 <a name="qpl"></a>
@@ -684,17 +684,17 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 #### Deep Quantum Learning
                                                                    
 ##### why and what is deep learning?
-###### In one line , If you know deep learning you can get a good job :) ,Even a different platform undergraduated and graduated person done a master specialization in deep learning can work in this big sector :), Practically speaking machine learning (vector mathematics) , deep learning (vector space(Graphics) mathematics) and big data are the terms created by big companies to make a trend in the market ,but in science and research there is no word such that , Now a days if you ask a junior person working in this big companies ,what is deep learning ,you will get some reply as "doing linear regression with stochastic gradient for a unsupervised data using Convolutional Neural Network :)" ,They knows the words clearly and knows how to do programming using that on a bunch of "relative data" , If you ask them about the FCM , SVM and HMM etc algorithms ,they will simply say these are olden days algorithms , deep learning replaced all :),  But actually they dont know from the birth to the till level and the effectiveness of algorithms and mathematics ,How many mathematical theorems in vector, spaces , tensors etc solved to find this "hiding the complexity technology", They did not played with real non relative data like medical images, astro images , geology images etc , finding a relation and features is really complex and looping over n number of images to do pattern matching is a giant work , Now a days the items mentioned as deep learning (= multiple hidden artifical neural network) is not suitable for that
+###### In one line , If you know deep learning you can get a good job :) ,Even a different platform undergraduated and graduated person done a master specialization in deep learning can work in this big sector :), Practically speaking machine learning (vector mathematics) , deep learning (vector space(Graphics) mathematics) and big data are the terms created by big companies to make a trend in the market ,but in science and research there is no word such that , Now a days if you ask a junior person working in this big companies ,what is deep learning ,you will get some reply as "doing linear regression with stochastic gradient for a unsupervised data using Convolutional Neural Network :)" ,They knows the words clearly and knows how to do programming using that on a bunch of "relative data" , If you ask them about the FCM , SVM and HMM etc algorithms ,they will simply say these are olden days algorithms , deep learning replaced all :),  But actually they dont know from the birth to the till level and the effectiveness of algorithms and mathematics ,How many mathematical theorems in vector, spaces , tensors etc solved to find this "hiding the complexity technology", They did not played with real non relative data like medical images, astro images , geology images etc , finding a relation and features is really complex and looping over n number of images to do pattern matching is a giant work , Now a days the items mentioned as deep learning (= multiple hidden artificial neural network) is not suitable for that
 
 ##### why quantum deep learning or deep quantum learning?
-###### In the mid of Artificial Neural Network Research people realised at the maximum extreme only certain mathematical operations possible to do with ANN and the aim of this ANN is to achieve parallel execution of many mathematical operations , In artificial Intelligence ,the world intelligence stands for mathematics ,how effective if a probem can be solvable is based on the mathematics logic applying on the problem , more the logic will give more performance(more intelligent), This goal open the gate for quantum artificial neural network, On applying the ideas behind the deep learning to quantum mechanics environment, its possible to apply complex mathematical equations to n number of non relational data to find more features and can improve the performance
+###### In the mid of Artificial Neural Network Research people realized at the maximum extreme only certain mathematical operations possible to do with ANN and the aim of this ANN is to achieve parallel execution of many mathematical operations , In artificial Intelligence ,the world intelligence stands for mathematics ,how effective if a problem can be solvable is based on the mathematics logic applying on the problem , more the logic will give more performance(more intelligent), This goal open the gate for quantum artificial neural network, On applying the ideas behind the deep learning to quantum mechanics environment, its possible to apply complex mathematical equations to n number of non relational data to find more features and can improve the performance
                                                                    
 <a name="qmlvsdl"></a>
 ## Quantum Machine Learning vs Deep Learning
                                                                                     
-##### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google,microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
+##### Its fun to discuss about this , In recent days most of the employees from Product Based Companies Like google, microsoft etc using the word deep learning ,What actually Deep Learning ? and is it a new inventions ? how to learn this ? Is it replacing machine learning ? these question come to the mind of junior research scholars and mid level employees
                  
-##### The one answer to all questions is deep learning = parallel "for" loops ,No more than that ,Its an effective way of executing multiple tasks repeatly and to reduce the computation cost, But it introduce a big cap between mathematics and computerscience , How ?  
+##### The one answer to all questions is deep learning = parallel "for" loops ,No more than that ,Its an effective way of executing multiple tasks repeatedly and to reduce the computation cost, But it introduce a big cap between mathematics and computerscience , How ?  
 
 ##### All classical algorithms based on serial processing ,Its depends on the feedback of the first loop ,On applying a serial classical algorithm in multiple clusters wont give a good result ,but some light weight parallel classical algorithms(Deep learning) doing the job in multiple clusters and its not suitable for complex problems, What is the solution for then? 
 
@@ -722,7 +722,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Meetup 3](https://www.meetup.com/New-York-Quantum-Computing-Meetup/) - Quantum Computing New York
 * [Meetup 4](https://www.meetup.com/Quantum-Computing-and-Big-Data/events/238749477/) - Quantum Computing Canada
 * [Meetup 5](https://www.meetup.com/Austin-Quantum-Computing-Artificial-Intelligence-Meetup/) - Quantum Artificial Intelligence Texas
-* [Meetup 6](https://www.meetup.com/The-NY-Quantum-Theory-Group/) - Genarl Quantum Mechanics , Mathematics New York
+* [Meetup 6](https://www.meetup.com/The-NY-Quantum-Theory-Group/) - General Quantum Mechanics , Mathematics New York
 * [Meetup 7](https://www.meetup.com/Quantum-Computers/) - Quantum Computing Mountain View California
 * [Meetup 8](https://www.meetup.com/nyhackr/) - Statistical Analysis New York
 * [Meetup 9](https://www.meetup.com/Quantum-Physics-Meetup-Group/) - Quantum Mechanics London UK
@@ -970,7 +970,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 
 [![Dedicated Opensources](http://livingintown.com/wp-content/uploads/sites/1112/2015/03/coming-soon-small.jpg)]()
                                                                   
-* Source code of plenty of Algortihms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
+* Source code of plenty of Algorithms in Image Processing , Data Mining ,etc in Matlab, Python ,Java and VC++ Scripts
 * Good Explanations of Plenty of algorithms with flow chart etc
 * Comparison Matrix of plenty of algorithms
 * [Is Quantum Machine Learning Will Reveal the Secret Maths behind Astrology?](https://medium.com/@krishnakumar070891/is-quantum-machine-learning-will-reveal-the-secret-maths-behind-astrology-ce69fd71a019)
