@@ -267,7 +267,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Google](https://research.google.com/pubs/QuantumAI.html) - Quantum AI Lab
 * [IBM](http://research.ibm.com/ibm-q/) - Quantum Computer Lab
 * [Quora](https://www.quora.com/Is-quantum-computing-the-future-of-AI) - Question Regarding future of quantum AI
-* [NASA](https://ti.arc.nasa.gov/tech/dash/physics/quail/) - NASA Quantum Works
+* [NASA](https://ti.arc.nasa.gov/tech/dash/groups/quail/) - NASA Quantum Works
 * [Youtube](https://www.youtube.com/watch?v=CMdHDHEuOUE) - Google Video of a Quantum Processor
 * [external-link](http://www.huffingtonpost.com/2013/07/29/quantum-computers-ai-artificial-intelligence-studies_n_3664011.html) - MIT Review
 * [microsoft new product](https://www.microsoft.com/en-us/quantum) - Newly Launched Microsoft Quantum Language and Development Kit
