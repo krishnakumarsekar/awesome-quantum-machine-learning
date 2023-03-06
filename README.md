@@ -97,7 +97,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [SAL](#qnn-sal)
     - [Quantum Hamiltonian Learning](#qnn-hamiltonianlearning)
     - [Compressed Quantum Hamiltonian Learning](#qnn-compressedhamiltonianlearning)
-- [QAUNTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
+- [QUANTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
 	- [Quantum Probability Theory](#quantumstatistics-probabilitytheory)
     - [Kolmogorovian Theory](#quantumstatistics-kolmogorovian)
     - [Quantum Measurement Problem](#quantumstatistics-measurementproblem)
