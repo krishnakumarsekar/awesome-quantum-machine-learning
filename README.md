@@ -95,6 +95,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
     - [QANN](#qnn-qann)
     - [QPN](#qnn-qpn)
     - [SAL](#qnn-sal)
+    - [QGAN](https://qiskit.org/documentation/machine-learning/stubs/qiskit_machine_learning.algorithms.QGAN.html)
     - [Quantum Hamiltonian Learning](#qnn-hamiltonianlearning)
     - [Compressed Quantum Hamiltonian Learning](#qnn-compressedhamiltonianlearning)
 - [QUANTUM STATISTICAL DATA ANALYSIS](#quantumstatistics)
