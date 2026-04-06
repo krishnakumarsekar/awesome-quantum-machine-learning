@@ -9,6 +9,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 [![In Depth Physics Comparison](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/CompareDifferentConcepts.jpg)](https://patents.google.com/patent/US20060091375)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for quantum machine learning workflow orchestration, automated research management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
