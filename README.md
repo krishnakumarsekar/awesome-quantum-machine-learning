@@ -952,6 +952,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [scirate](https://scirate.com/) - Plenty of Quantum Research Papers Available
 * [Peter Wittek](http://peterwittek.com/book.html) - Famous Researcher for the Quantum Machine Leanrning , Published a book in this topic
 * [Murphy Yuezhen Niu] (https://scholar.google.com/citations?user=0wJPxfkAAAAJ&hl=en) - A good researcher published some nice articles
+* [Scalable Neural Quantum States Architecture for Quantum Chemistry](https://arxiv.org/abs/2208.05637) - Scalable autoregressive neural quantum states using masked attention for ab initio quantum chemistry, *ML:ST* 2023 [Code](https://github.com/Ericolony/made-qchem)
 
 <a name="quantumconsolidatedresearchpapers"></a>
 ## Recent Quantum Updates forum ,pages and newsletter
