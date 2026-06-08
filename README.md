@@ -674,6 +674,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [Quantum Database](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Server](https://github.com/krishnakumarsekar/) - Yet to come soon
 * [Quantum Data Analytics](https://github.com/krishnakumarsekar/) - Yet to come soon
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Privacy-preserving trust scoring for quantum/AI agents. Verify autonomous agent identity without exposing sensitive data — ZK-compatible agent trust layer for private quantum ML deployments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
                                                                    
 
 <a name="quantumhottopics"></a>
