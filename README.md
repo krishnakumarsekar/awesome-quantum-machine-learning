@@ -677,6 +677,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
                                                                    
 
 <a name="quantumhottopics"></a>
+* [ZEPHIRUM (ZYQL)](https://github.com/SerenaSolutions/zephirum-lang) - A trivalent quantum programming language with cryptographic receipts: REFUSED is a first-class verdict (barren plateaus, decoherence, correlated noise); pure-Python kernel with QML, ZNE and tensor networks, verified on real quantum hardware.
 ## QUANTUM HOT TOPICS
                                                                    
 
