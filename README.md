@@ -654,6 +654,7 @@ A curated list of awesome quantum machine learning algorithms,study materials,li
 * [qiskit api python](https://github.com/QISKit/qiskit-api-py) - An API to connect IBM Quantum Computer ,With the generated token its easy to connect ,but very limited utils ,Lot of new utils will come soon 
 * [Cyclops Tensor Framework](http://solomon2.web.engr.illinois.edu/ctf/) - A framework to do tensor network simulations
 * [Python ToolKit for chemistry and physics Quantum Algorithm simulations](https://github.com/qmlcode/qml) - A New Started Project for simulating molecule and solids
+* [Dense-Evolution](https://github.com/tatopenn-cell/Dense-Evolution) - A Python/JAX library for quantum statevector simulation, matrix product states, VQE and quantum error correction.
 * [Bayesian Based Quatum Projects Repository](https://github.com/artiste-qb-net) - A nice repository and the kickstarter of bayesforge
 * [Google Fermion Products](https://github.com/quantumlib) - A newly launched product specifivally for chemistry simulation
 * [Tree Tensor Networks](https://github.com/dingliu0305/Tree-Tensor-Networks-in-Machine-Learning) - Interesting Tensor Network in Incubator
